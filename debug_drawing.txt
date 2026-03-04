@@ -1,0 +1,96 @@
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{f0772fca-647c-4ca5-a360-0f5c1e600d1b}', 'block_name': 'x1', 'terminal_name': '1', 'terminal_xref': '2-E3', 'cable': '101', 'terminal_pos': 1, 'terminal_type': 'GROUND', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': 'O', 'bridge3': '', 'bridge4': '', 'etage': '2', 'terminal_color': 'green', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='' cond='' cable='101' etage=2 y_bottom_curr=200.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(60.0, 200.0 -> 260.0), cable='101'
+DRAWING: name=U -> FULL_DATA: {'uuid': '{296ec9cd-2be8-44ee-9ef3-c99f8f6925ef}', 'block_name': 'x1', 'terminal_name': 'U', 'terminal_xref': '2-E2', 'cable': 'u1', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W1', 'conductor': 'bk', 'bridge1': '', 'bridge2': 'O', 'bridge3': '', 'bridge4': '', 'etage': '2', 'terminal_color': 'darkblue', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=U hose='-W1' cond='bk' cable='u1' etage=2 y_bottom_curr=200.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 200.0 -> 280.0), cable_label='u1', cond='bk', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=V -> FULL_DATA: {'uuid': '{01668af5-ecae-41b0-8a93-1e881a9dd7fa}', 'block_name': 'x1', 'terminal_name': 'V', 'terminal_xref': '2-E2', 'cable': 'v1', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W1', 'conductor': 'bn', 'bridge1': '', 'bridge2': 'O', 'bridge3': '', 'bridge4': '', 'etage': '2', 'terminal_color': 'red', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=V hose='-W1' cond='bn' cable='v1' etage=2 y_bottom_curr=200.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 200.0 -> 280.0), cable_label='v1', cond='bn', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=w -> FULL_DATA: {'uuid': '{fc435f01-6c9f-47cc-9ff5-0d50241e626c}', 'block_name': 'x1', 'terminal_name': 'w', 'terminal_xref': '2-E3', 'cable': 'w1', 'terminal_pos': 4, 'terminal_type': 'GROUND', 'hose': '-W1', 'conductor': 'bu', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': 'lightblue', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=w hose='-W1' cond='bu' cable='w1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='w1', cond='bu', hose_line(120.0, 360.0 -> 430.0)
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{8037e515-1a57-43c4-bd79-71f3d05a8c24}', 'block_name': 'X2', 'terminal_name': '1', 'terminal_xref': '3-B3', 'cable': '10', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'rd', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='-W2' cond='rd' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(60.0, 210.0 -> 280.0), cable_label='10', cond='rd', hose_line(60.0, 360.0 -> 430.0)
+DRAWING: name=2 -> FULL_DATA: {'uuid': '{ffc76c4f-2c16-43c3-b931-dd4bb575276c}', 'block_name': 'X2', 'terminal_name': '2', 'terminal_xref': '3-B4', 'cable': '10', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bl', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=2 hose='-W2' cond='bl' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 210.0 -> 280.0), cable_label='10', cond='bl', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=3 -> FULL_DATA: {'uuid': '{5d1d91fb-32de-4dac-8e89-209aa163f630}', 'block_name': 'X2', 'terminal_name': '3', 'terminal_xref': '3-B5', 'cable': '20', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bk', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=3 hose='-W2' cond='bk' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 210.0 -> 280.0), cable_label='20', cond='bk', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=4 -> FULL_DATA: {'uuid': '{3af51ed5-2d15-470d-946c-c0d9b848f3f1}', 'block_name': 'X2', 'terminal_name': '4', 'terminal_xref': '3-B6', 'cable': '20', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bn', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=4 hose='-W2' cond='bn' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='20', cond='bn', hose_line(120.0, 360.0 -> 430.0)
+DRAWING: name=U -> FULL_DATA: {'uuid': '{296ec9cd-2be8-44ee-9ef3-c99f8f6925ef}', 'block_name': 'x1', 'terminal_name': 'U', 'terminal_xref': '2-E2', 'cable': 'u1', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '-W1', 'conductor': 'bk', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=U hose='-W1' cond='bk' cable='u1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(60.0, 210.0 -> 280.0), cable_label='u1', cond='bk', hose_line(60.0, 360.0 -> 430.0)
+DRAWING: name=V -> FULL_DATA: {'uuid': '{01668af5-ecae-41b0-8a93-1e881a9dd7fa}', 'block_name': 'x1', 'terminal_name': 'V', 'terminal_xref': '2-E2', 'cable': 'v1', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W1', 'conductor': 'bn', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=V hose='-W1' cond='bn' cable='v1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 210.0 -> 280.0), cable_label='v1', cond='bn', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=w -> FULL_DATA: {'uuid': '{fc435f01-6c9f-47cc-9ff5-0d50241e626c}', 'block_name': 'x1', 'terminal_name': 'w', 'terminal_xref': '2-E3', 'cable': 'w1', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W1', 'conductor': 'bu', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': 'O', 'etage': '1', 'terminal_color': 'orange', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=w hose='-W1' cond='bu' cable='w1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 210.0 -> 280.0), cable_label='w1', cond='bu', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{f0772fca-647c-4ca5-a360-0f5c1e600d1b}', 'block_name': 'x1', 'terminal_name': '1', 'terminal_xref': '2-E3', 'cable': '101', 'terminal_pos': 4, 'terminal_type': 'GROUND', 'hose': '-W1', 'conductor': 'gnd', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': 'O', 'etage': '1', 'terminal_color': 'orange', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='-W1' cond='gnd' cable='101' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='101', cond='gnd', hose_line(120.0, 360.0 -> 430.0)
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{8037e515-1a57-43c4-bd79-71f3d05a8c24}', 'block_name': 'X2', 'terminal_name': '1', 'terminal_xref': '3-B3', 'cable': '10', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'rd', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='-W2' cond='rd' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(60.0, 210.0 -> 280.0), cable_label='10', cond='rd', hose_line(60.0, 360.0 -> 430.0)
+DRAWING: name=2 -> FULL_DATA: {'uuid': '{ffc76c4f-2c16-43c3-b931-dd4bb575276c}', 'block_name': 'X2', 'terminal_name': '2', 'terminal_xref': '3-B4', 'cable': '10', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bl', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=2 hose='-W2' cond='bl' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 210.0 -> 280.0), cable_label='10', cond='bl', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=3 -> FULL_DATA: {'uuid': '{5d1d91fb-32de-4dac-8e89-209aa163f630}', 'block_name': 'X2', 'terminal_name': '3', 'terminal_xref': '3-B5', 'cable': '20', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bk', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=3 hose='-W2' cond='bk' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 210.0 -> 280.0), cable_label='20', cond='bk', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=4 -> FULL_DATA: {'uuid': '{3af51ed5-2d15-470d-946c-c0d9b848f3f1}', 'block_name': 'X2', 'terminal_name': '4', 'terminal_xref': '3-B6', 'cable': '20', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bn', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=4 hose='-W2' cond='bn' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='20', cond='bn', hose_line(120.0, 360.0 -> 430.0)
+DRAWING: name=V.2 -> FULL_DATA: {'uuid': '{01668af5-ecae-41b0-8a93-1e881a9dd7fa}', 'block_name': 'x1', 'terminal_name': 'V.2', 'terminal_xref': '2-E4', 'cable': 'v1', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '2', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=V.2 hose='' cond='' cable='v1' etage=2 y_bottom_curr=200.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(60.0, 200.0 -> 260.0), cable='v1'
+DRAWING: name=1.4 -> FULL_DATA: {'uuid': '{f0772fca-647c-4ca5-a360-0f5c1e600d1b}', 'block_name': 'x1', 'terminal_name': '1.4', 'terminal_xref': '2-E5', 'cable': '101', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '4', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1.4 hose='' cond='' cable='101' etage=4 y_bottom_curr=180.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(80.0, 180.0 -> 260.0), cable='101'
+DRAWING: name=U.1 -> FULL_DATA: {'uuid': '{296ec9cd-2be8-44ee-9ef3-c99f8f6925ef}', 'block_name': 'x1', 'terminal_name': 'U.1', 'terminal_xref': '2-E4', 'cable': 'u1', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=U.1 hose='' cond='' cable='u1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(100.0, 210.0 -> 260.0), cable='u1'
+DRAWING: name=W.3 -> FULL_DATA: {'uuid': '{fc435f01-6c9f-47cc-9ff5-0d50241e626c}', 'block_name': 'x1', 'terminal_name': 'W.3', 'terminal_xref': '2-E4', 'cable': 'w1', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '3', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=W.3 hose='' cond='' cable='w1' etage=3 y_bottom_curr=190.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(120.0, 190.0 -> 260.0), cable='w1'
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{8037e515-1a57-43c4-bd79-71f3d05a8c24}', 'block_name': 'X2', 'terminal_name': '1', 'terminal_xref': '3-B3', 'cable': '10', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'rd', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='-W2' cond='rd' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(60.0, 210.0 -> 280.0), cable_label='10', cond='rd', hose_line(60.0, 360.0 -> 430.0)
+DRAWING: name=2 -> FULL_DATA: {'uuid': '{ffc76c4f-2c16-43c3-b931-dd4bb575276c}', 'block_name': 'X2', 'terminal_name': '2', 'terminal_xref': '3-B4', 'cable': '10', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bl', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=2 hose='-W2' cond='bl' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 210.0 -> 280.0), cable_label='10', cond='bl', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=3 -> FULL_DATA: {'uuid': '{5d1d91fb-32de-4dac-8e89-209aa163f630}', 'block_name': 'X2', 'terminal_name': '3', 'terminal_xref': '3-B5', 'cable': '20', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bk', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=3 hose='-W2' cond='bk' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 210.0 -> 280.0), cable_label='20', cond='bk', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=4 -> FULL_DATA: {'uuid': '{3af51ed5-2d15-470d-946c-c0d9b848f3f1}', 'block_name': 'X2', 'terminal_name': '4', 'terminal_xref': '3-B6', 'cable': '20', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bn', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=4 hose='-W2' cond='bn' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='20', cond='bn', hose_line(120.0, 360.0 -> 430.0)
+DRAWING: name=U.1 -> FULL_DATA: {'uuid': '{296ec9cd-2be8-44ee-9ef3-c99f8f6925ef}', 'block_name': 'x1', 'terminal_name': 'U.1', 'terminal_xref': '2-E2', 'cable': 'u1', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=U.1 hose='' cond='' cable='u1' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(60.0, 210.0 -> 260.0), cable='u1'
+DRAWING: name=V.2 -> FULL_DATA: {'uuid': '{01668af5-ecae-41b0-8a93-1e881a9dd7fa}', 'block_name': 'x1', 'terminal_name': 'V.2', 'terminal_xref': '2-E2', 'cable': 'v1', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '2', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=V.2 hose='' cond='' cable='v1' etage=2 y_bottom_curr=200.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(80.0, 200.0 -> 260.0), cable='v1'
+DRAWING: name=w.3 -> FULL_DATA: {'uuid': '{fc435f01-6c9f-47cc-9ff5-0d50241e626c}', 'block_name': 'x1', 'terminal_name': 'w.3', 'terminal_xref': '2-E3', 'cable': 'w1', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '3', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=w.3 hose='' cond='' cable='w1' etage=3 y_bottom_curr=190.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(100.0, 190.0 -> 260.0), cable='w1'
+DRAWING: name=1.4 -> FULL_DATA: {'uuid': '{f0772fca-647c-4ca5-a360-0f5c1e600d1b}', 'block_name': 'x1', 'terminal_name': '1.4', 'terminal_xref': '2-E3', 'cable': '101', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '', 'conductor': '', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '4', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1.4 hose='' cond='' cable='101' etage=4 y_bottom_curr=180.0 y_max_bottom=210.0
+    -> SIMPLE BRANCH: line(120.0, 180.0 -> 260.0), cable='101'
+DRAWING: name=1 -> FULL_DATA: {'uuid': '{8037e515-1a57-43c4-bd79-71f3d05a8c24}', 'block_name': 'X2', 'terminal_name': '1', 'terminal_xref': '3-B3', 'cable': '10', 'terminal_pos': 1, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'rd', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=1 hose='-W2' cond='rd' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(60.0, 210.0 -> 280.0), cable_label='10', cond='rd', hose_line(60.0, 360.0 -> 430.0)
+DRAWING: name=2 -> FULL_DATA: {'uuid': '{ffc76c4f-2c16-43c3-b931-dd4bb575276c}', 'block_name': 'X2', 'terminal_name': '2', 'terminal_xref': '3-B4', 'cable': '10', 'terminal_pos': 2, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bl', 'bridge1': 'O', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=2 hose='-W2' cond='bl' cable='10' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(80.0, 210.0 -> 280.0), cable_label='10', cond='bl', hose_line(80.0, 360.0 -> 430.0)
+DRAWING: name=3 -> FULL_DATA: {'uuid': '{5d1d91fb-32de-4dac-8e89-209aa163f630}', 'block_name': 'X2', 'terminal_name': '3', 'terminal_xref': '3-B5', 'cable': '20', 'terminal_pos': 3, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bk', 'bridge1': 'F', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=3 hose='-W2' cond='bk' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(100.0, 210.0 -> 280.0), cable_label='20', cond='bk', hose_line(100.0, 360.0 -> 430.0)
+DRAWING: name=4 -> FULL_DATA: {'uuid': '{3af51ed5-2d15-470d-946c-c0d9b848f3f1}', 'block_name': 'X2', 'terminal_name': '4', 'terminal_xref': '3-B6', 'cable': '20', 'terminal_pos': 4, 'terminal_type': 'STANDARD', 'hose': '-W2', 'conductor': 'bn', 'bridge1': '', 'bridge2': '', 'bridge3': '', 'bridge4': '', 'etage': '1', 'terminal_color': '', 'num_reserve': 0, 'reserve_positions': '', 'size': 30}
+  SOUTH: name=4 hose='-W2' cond='bn' cable='20' etage=1 y_bottom_curr=210.0 y_max_bottom=210.0
+    -> HOSE BRANCH: line(120.0, 210.0 -> 280.0), cable_label='20', cond='bn', hose_line(120.0, 360.0 -> 430.0)

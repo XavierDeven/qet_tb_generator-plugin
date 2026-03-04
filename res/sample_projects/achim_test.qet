@@ -1,0 +1,1315 @@
+<project title="test_first_1" version="0.80">
+    <titleblocktemplates>
+        <titleblocktemplate name="WV_DinA4">
+            <information/>
+            <logos>
+                <logo storage="xml" type="svg" name="wvDanHitzacker.svg">
+                    <ns0:svg viewBox="0 0 373.33334 101.33333" height="101.33333" ns1:docname="wvDanHitzacker.svg" version="1.1" ns2:version="0.92.4 (5da689c313, 2019-01-14)" width="373.33334" id="svg20">
+                        <ns0:metadata id="metadata26">
+                            <rdf:RDF>
+                                <ns4:Work rdf:about="">
+                                    <dc:format>image/svg+xml</dc:format>
+                                    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                                    <dc:title/>
+                                </ns4:Work>
+                            </rdf:RDF>
+                        </ns0:metadata>
+                        <ns0:defs id="defs24"/>
+                        <ns1:namedview guidetolerance="10" ns2:cy="50.666664" objecttolerance="10" showgrid="false" ns2:window-width="1069" ns2:zoom="0.89464283" ns2:current-layer="svg20" ns2:window-maximized="0" ns2:window-x="2161" gridtolerance="10" id="namedview22" ns2:window-y="328" ns2:cx="186.66667" ns2:pageshadow="2" ns2:window-height="480" pagecolor="#ffffff" bordercolor="#666666" ns2:pageopacity="0" borderopacity="1"/>
+                        <ns0:image y="0" height="101.33333" ns6:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAABMCAYAAAC25qjZAAAAAXNSR0IArs4c6QAAAARnQU1BAACx&#xa;jwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEu&#xa;NWRHWFIAABlVSURBVHhe7Z0JvF1VdcZDABMQcLZatE4FarVFwKkidUJbUazz2FrrXK0DgwIyFMQg&#xa;ZR4CFRABrS00gEwBAgkkEAIJkMQwZyAJBELyXuaBl7yp33e61+Y7+65z73333YSXZK/f7//eOWuv&#xa;PZxz9l5n7332OXdYf3//kKC7u/e1Tz618uDbJs8+7txLJo55wYidu4cNG9bfCozLNJjWoqdXfpxp&#xa;e3lmMplNi6vcTOz6zNI1B15z86zTD/3F1Xd7jqKdHDbq6inj73zs+FWru96BvHdIypLJZDYBrnJT&#xa;snLVs++88oYZ53hOYHMybuIjJ65bv/GtXhkzmUx7cJWbgBFzHu/40lGnXDvJa+z1OP3CCdeOvnTS&#xa;/066e+7RU6cvONRj4pQ5x9Dm1AvGX+elUY9TfzX+Og7NUMYXJGXOZDKDxFW2kZGz5y39yo4jdurx&#xa;GncKnMk1U+6bf/jiJas/snFj7+sQv5VGP4JxmcaUe+cfTgfl5ZXygpE7dz82d+k/Iv5OSXqZTKZF&#xa;XGU7mD2v48vNOJZrx806rXP5ugP6+vpf5KXTDph257J1f8v5Hq8MSm9v3yu8NDKZzMBxlYNhzdoN&#xa;e580etxNXuM1Lhsz9WI2eNiPTONvBkY+tXjVQRhSXZGWi5PAjn0mk2kRV9kiI+66d/5P0kar3HrH&#xa;oyd0beh5kxP3eQFl+fOrbpx5lpUP+3t4dplMpjVc5UDp6urZ49jTb7hNnYly8+2PjMIw5aVe3KHA&#xa;s13dey1avOpjXlgmk2kdVzkQFi9Z/XeeUyEcCm3Y2PMGL14mk9n6cZXNMvPBRd/1HAtZ8MTyT3tx&#xa;MpnMtoOrbILhV471F8v97qppF/X29r3SiZPJZLYxXGUDho+5Yca5nnN58NHF33DsM5nMNoqrrMPw&#xa;K66bfp7nXJavXP8exz6TyWzDuMoK4FzuP99zLmvXbtjbsc9kMts4rtJj2oyFP04dCx9N9/b2/Yln&#xa;n8lkMq4yZeGiFZ9MnQvp7et/mWefyWQyxFUqXO3qOZf8qYNMJtMIVymMOPq06yemzmXNmq59HdtM&#xa;JpMp4SqNKc67RQ888vQ3PdtMJpNJcZVk7boNe6fO5bdXTr3Ys81kMhkPVwl2GDV63M2pg+nr69/N&#xa;sc1kMhkXVzl3QecXUueytHPtBzzbTCbzHJARxAvbFvGUI9Iv0V06Zupv1AY9mRfzFwHIko7WYfyV&#xa;q559l6a9ek3XfoNNlzANPgGTtLdjXu0oM+E5kLQzGTSVYfdJu5nu2WxJQE4AfYD+YJZn04gaxZz5&#xa;nV9CYnaSCjZs6Hmj2vBrdKnNYIBsZ2kfcfK1kz2bVhg7/qH/sHTBcM+mVZatWP9eSbsGyN+DKYDH&#xa;w4+d71dh90bAj5XT7i5wsmdHIEcGG/Irz2ZrBvI7cDvgFxP5/WTXzqBNsGWcYzybdgLRF4BXeDZb&#xa;EpBT5Hge8GwakSp2kgQLbpn06ImJzbBly9cdkNoNBkh0MN5j8Va56faHT7J0QVsdzPIV6/eXtGuA&#xa;HKj24KcVdj8UG7LQsyOQ6WJX6lVuC0AWy/F3gLq/bwV5MtiSizybdgJRB7PBs9mSgLTXwXgfj/K+&#xa;RJcdTFMOZnuw0ezBTRV2Nd8GBm9z7F4s4eRrqc3WDuQiOX5S2YuEvFvsyIGeXTuBlD5hkoZvaUDa&#xa;6mC2O/m8W26UBPuvunHm2RIeyQ6msYMhkFskTleFzTKxMQ537A6ScPL61GZrB5L2Cs/07AjkRLFr&#xa;2NtpB5CtzcGMluMZnIPhPIskVlD1OkB2ME07mJ9pHPDBJHxPCVNuVrtg+wsJf9gJfwX4PPg2+BZg&#xa;b/QvU7sUyDsAnxr+K+A7Z6/27AiEa6M+DX4AGGcvz86AcMj9LvBNwLQrP/gO2QW8E7xFdB8AfMn2&#xa;E2F/B0BnwR0y32xTIA+InTs8gvwFYLk4X/Yqz8aA7ANizxLy1+D74Auicx0M5KOA5/f9oKGjg3CO&#xa;81/Aj8BnAH/uuMqWPVv21t6c6PcDHH7zHDZ8ZxDyJvB18EVQ1AHIZYAbZHAO5v5ZT/6bJNZ/4jk3&#xa;3QJ9bPhKdjBNO5j3aBxQms+CsBJZmPZketUu2E6T8PNFz0pb78flxoBS5QvxPgE4CZ3akzMSW1bW&#xa;ql/NvFxtJc7xYqM8BD7k2F8dwgmP6STZJ8W3nSHpMMkbTqbvz5WGRxBO/q4JYQrnbGqGUpBRIZzw&#xa;M7F0LLZPPhrsSg4G0HE9mujIEU4eu4FTwXKQ2pOHQc0H3SDaS+Z14g1gqejIevDZNG6I/xJQGrkE&#xa;/hNcJfuDcjDbHXfG2NKvAsxb0Pl5NVSyg2nOwRDIKok3OQm7WMLOlG1Sml9IwuK1gXgNJeWGJC32&#xa;FLpDmMcksWXPaHbQe3Rq2iHOeAmvovTNZog6GG9equiNQdJhUs1DCMjhEl4aHkHYcCysitL8FkQd&#xa;TM0CVPCZYJc6mHr8PMmj2bilUQVEHcw42fYo/SwPhE7Nc4BGr2y37mB6evr+VBIq6O3rq+xWZQcz&#xa;IAdT6l0kYVEP3pzsnyV2aU8o/vokZGXQ8RHu5wCHPOxi/w/QOPEFVcjZoucj3NeCkYCOh3MX14kt&#xa;h1xmuxBwqLAdOBiwV9NttsGewzOz5yQ3ewu7gjcAbQBTk3jqYAxW8AfDdjHnBEmHSTUVH3KnhMfh&#xa;EUQnfulg6YheDtjjYU/Pwph+XOcEUQejWNmqejDkj+DfQfpjhOypDJc87JqwV/k9wKENr8dhQOOd&#xa;a3FCPHUwxnzgleX0JO5REkbuAScD7S0brTuYeQuWceweEzv5/FvGpoZKdjADcjCHaDxQDFcgrxJd&#xa;T9DdLboHJY0jRH+f6UMYG/Duqgt6dn0tDok9Bsitov+lxkuBxB+mA9d4NgqEldvsD0nCUif6NxKW&#xa;OpgZ4M9C2EvMLuynw6S4oBJCh6G9szjkgehxX2L6EEYHq4/BvythqYOhcyh6kRDtHaWNujT3A0l7&#xa;qZrHW8H71F7C/gtYnOj8Q1jqYOLyBQhvBAuCnsSeaQjXx/j3Az2W9ANzrTuYGyc8RK8VE7tv5hM/&#xa;TA2V7GAG5GB4x9e4xUI6CCfvTDcu6HQiF6qYxuOiP830jYCskHg/Ev2vRU84Gf0ajSu2qYOkw4kT&#xa;sYltOmm9j2OzTsK/KPrUwbgLEwkkHSYdKWFfE306PFLH80nTS/gfJPxU0acO5nMaT+y0Z7jUCd9D&#xa;wknspdYDwrkZizMjCVMHc4eGhXD9zO0C0bNHaXryPY0XbPS33Ft2MCN+ljTqzmXrXE9qZAfTvIMh&#xa;kGck7sygu0F0xSI8yPtER4p5mERX8wuUkB3BP4ELwfWAd6OngMZTB7O/6BXeKUtPniDsaWn5jbGA&#xa;vy+utu6XD+sQFx9C1MHcq+mmQNJh0p0Spk5Ch0d8YmR6wt4Ke1uKzmfFHg5EHcw606dA6jqYYKNz&#xa;cmOc8PcCOnHOQ3GoNxesBRannoMp9VBCuD6uXyn6D4qevF3jBZvBOxhv/qXRz7xmBzNgB3O5xg26&#xa;uA9iWon+EvCWRLez2QZ7OpauEFaP6GBCPM6hLAphKccmtvuCmSEs5Tyx46sMaXg9vipxm3YwBJIO&#xa;k14DOMxRJ6HDIz6ZMn0zxLkOSCsOpqPC5gmx4ZNa09OR60rtKuo5mIkaFsJ/LuHqYL4heuI9aRy8&#xa;g0lX7x51ynXsZm2fGirZwQzYwaS/gPnqZD8eP0SPnxO42j0udYEh/yBhZBbgcIdrGdKwkoMJ8dkT&#xa;4EQnH4GqLalZAwXhehbv0fanQjidner5OPerCXzX7bOg1BODqIOZpmEekHSYxLJ9XPbT4dHbgt74&#xa;JeBwyoPnTyd5dei61vQpEHUwNU/Xgo32Ri4QPSeDTc/JbT7t4oQ5r6O+n1f0gCWeOpjbNSyEq4NZ&#xa;JXouUzA9ifNhYjN4BzN52uM6gdh//mV3XOEZKtnBDNjBpN1zfcKTOo10/chq2T4hsdXu7zwQn0qE&#xa;cAsjNQ5GgXCRldp/y7MjEC4cU9tiRS0krRcHpHGrgKiDKT1h8oCkwyRO4GqvJp1gZe/GwkjDlyUN&#xa;iDqYNZ4NgZQcDNglCU9fXyjmjiDpfMhPkni6nKGeg7lNw0J4lYNhr9T0pDQhH2w41Lbw1hzMby6f&#xa;oqv1+idOmdPwrdPsYAbmYAhEZ/N1orP0FAdSrytf+iYPRJ8u3J2E8anEhhBGdA6mZqFX0D8NzP4H&#xa;QcfH3js6trrWpXizG8LH3aYjlV9AhJR+Xhiii7oaOhgCUYfCCVx1ON6COV3dey+IPZzEbmSy34qD&#xa;Iex5xOUekCuD3igWHEI+LDpSWjwI0XKnDkYf/U/QsBCuNyF1MDsDHVrzkfsLJVx7L6Q1B5N+++We&#xa;+xcc5hkq2cG05GA4n1KTDjjYsfXmVGreZYKUVl+DQ8HHAPXa8yHqYFhhOd7no0hOKvJJ17FA7Yvj&#xa;g3CykY8zuZaDE4N0XGm+35a09bE24WQ219IwLocfZwA+gn7a4oR46mDu0bAqIOkwySgNj8Sej/TV&#xa;juXgsTAdDts4h8R1QXRWVUOk1ZqmAkkdDOFwh45FnwSS2HOFcJ2QhvHafAR8CqQrqOs5mPEaFsLV&#xa;wZTKDkkXHXJOjk+dvGFwaw5GEih4ZumaD3uGSnYwLTmYf9b4wssdW2+1qPd+ElfZVi0tJ/r6gToY&#xa;fk/G9B6Xii2fTKXhSrq2gutvuCAvtUtZnMRrxcGkwyTDffeIQOhAUnuP+Ngeog4m9gJSIOpgJsi2&#xa;R2npPiSdtK6inQ6G71PVu1a6oro9Dqajc+37PUMlO5iWHMwrgS5sIu6CRghfJtSeJYdU7pwBhJOm&#xa;2oUmvGseB9SpqYP5DtDxtcF3VtL3pfgWd9U14d2u5uVICBd48cmLTmgq/PJbaU4IosOH0nCvHhCd&#xa;BCfsfbzbsyUQOiVOuusaIWU+SIet7jAjBaK9N/aIOEGrQ2PCx87ehCpfWvxvoLaEcyy7y376FElv&#xa;RrdqWAivW3YI1+boBDNZAjgnxzLxi3bUPZLGbQaKJtzUt3ezgxm4gzEgfP+jwAs3IPyeTEM7A7IX&#xa;4PxNuo7lhUR1EsYlClwTw2XpfBxemRfE3trlcIJvVVe+da1A2MviG9UcIr0duGUhED6qrftWsweE&#xa;q3dfH3DnVTwgzI/Hw6Eb/1d+AgPSVNkgHO6UvskL4ZJ/vvhY01tNgXAei+eL1+VFomf9Lc1bSVjd&#xa;sjUKJ5CXAj5ZKq2HgXCN1a6qGwgU/o1kB9McrTqYTGZbglJqOB3L8hCpGbZlBwOx38xyP9WQeY7N&#xa;ca6Ydshjby/8+YTCv5FFT6+qWYqekh1MS3MwfCyapsOKcZBnP5SB8MkTN2omnjc3EM4nFecy0f80&#xa;6L+T2BX7mwvIJj9XTDvk0ehD9HZOXFuIfTWR58ocYzxfkPSdLMJ6Xf3p0uPPHFua7b7r3sfdj1Mr&#xa;2cG05GBq0hA2a6UfLJCh5GCs0ZTKInp7z6vkYCDWgDbpMUCGkoPhE0d76ljTo4I0cjDe002j9Msj&#xa;MU660O7WOx8rrRb1yA5mUA7GXmDkJ0r1TVf3Ag1FIFucg0mBbJZj2Bz5MO2QR3VPouw8+CSL2w0/&#xa;palALB9z2qzDlpab97AZDyzix21oUHDWr2+72jNUsoMZvIMRvQ2d7M7KbqhdNMLwOLYOOl5oNqB4&#xa;NwJFZYFYw2JFsgrB9PTTCC8DzMfiM9y7U7FSWlliOSDWaKgzJ8m0Rg0gDy0nw5YHveap+BX4uXTq&#xa;OhjdB1Z+pUpf3Okhja4L7/g2FxLPBaTkYCB8z6mwCftspPoyLNONxxp0vB42PInnUGzsejEvnnem&#xa;UbKF2HXSG1usE8FGj4Gk18zyad7BLO1cW3pte+ROu2xEQN1HfdnBtNXBpA3B7JT4dnGiV4qKALH0&#xa;UooKHWy056QU80EQq0gp1ti8hmgUlRbSKA+vnKywqc5o5GCqaJeDSfWkuC4QNmrXKQa4zXPKBkzn&#xa;Q8xZe/EYXvRoRWcUx6NA1MHYeY/fbQ42THNu2LbeTBwmQXjuacOdFLumVfWilJcyrLe3j2sIShF6&#xa;evrqPjPPDmaTOhje0a1y2TgYuzXpmEOxO5vdIS093sVYabTisAKyMXBbKzHz5IY1JqtIrKy0twqJ&#xa;4CLcGg0bh6Vhd76iNxW26+Vh5WRetCeWblFhIXa3t2PVBmA9AEunihoHE/Zjw+e+AmFZeP6YnzmC&#xa;yusCsfNTnA/A+Dx3tLN8mB7DNU2LV5yDoLPzaMfMP8Qcc82wBmLXy+KmzsXy0R6mnUs7JqtHxfVL&#xa;dFa3PAfD46ocavHPDieNHlf6Xuiy5fV/FjU7mE0yRLK7BBuC6SJin+6XGgqk1JCCzioGbc3eI3Uw&#xa;saxhH5vFdk3jVJ1se6QORstZ1YMpygGp52BKjkL0A3IwkBrnEvSM714XSM2xGBDLx5wLt83BWDyP&#xa;koOx9Dwgdr2sfLFnEsLN8XhYPt41L50j/g/7LLedJ+5X92D4Z8Lk2aVPBPATDqmhkh3MppnkBXbH&#xa;tjt4ZQ9G9tNKUFPZIbHyAGvErOzF3SsF4lU2/sFmsa2NJu3B8JiaycMrJ+MxjjVE/q9ptArDg22r&#xa;DsaGDWwwVc6l7nWBWHjag2Ee8foA68XZ0MriMcztBYRwbNaGGRC7XuypsAzFdghjWYo0KrCyWF3U&#xa;HkzUJfmk55D45eefRYtX8Q1cM+w/+pTraz69p2QHMygH42G9F6twNaTpyH6swGG/roNJ9lPS8EYO&#xa;xqPZPLxymq7ptUESZ6AOxpygwXBzAAqPo+51gbARm1NUSg4m2Np5YX5V8Yp0g31p3wMSr1eA20yX&#xa;6Zeco8RRx8NzMZBr6tWtqFOKP948THd3r/sRaLJJHcyp10/ybFphiDmYtHvNCsC7RWzEwU57NQwv&#xa;4kl4ESb7VjHqDT2sEljXnJWL+aSVO61IsWxh34YllifzMlumpXk2ysMrp/VguMN0jUqHAynN7Yje&#xa;0rchgJefzTEQNkTXwQTbRteFvRq7xjyGqqdIeoyMQ6z3F5F0S/sekNL1guh8iqVdqmfBzsKKcwJh&#xa;D0jrKbfjuYeYfXFOJU5hazolbpx+4YTS7/f88aGnYiIpncvX8Xd3ou1ggUQHw092ejatwF9LsHRB&#xa;Wx3MshX156kyAwdijZgNnQ1Tu/zuUCsztIkbj85dWvqe6mGj/sBX5kufYDT6+vp3QwPbn3fxwcA0&#xa;1qzdUPp617r1G/+qXWlv3Nj7Ok0bee3TrrT7+vubess50zwQuxOn8I5f+aQiM3SJGz09femHqPtX&#xa;r+mq/G2aTKbdQLzhAvfjhGtmy6K0c8HvJ/9eL+5vr5xa+U3VTCaTaURpZ0nHmg+pgyEbu3uLn+/M&#xa;ZDKZgZIqtj/ujLG3qYO5dtwDpR/MzmQymWapUcye1/EVdTAknYjNZDKZZvCUOx2ZPCo+++Lbr4I+&#xa;PkrODByIrYcoVo4GHf80/bibtiFO6ZFtld6DNsHWWxdRrDtJ9fVgOiCmF7Yrl45vyfAYw/EZ8Vo2&#xa;C6R0vgYLpPJ6DgVc5ZKOtTVzMXMe7/iyZ5tpDohVLK7r0MbYdMWgbYjTFgej255tM4R0LD2uYxlw&#xa;o2sHoQylzw8MhGbiQ+J5Dgwqz3Yg5dhyHAwYPvrSSWNCwSP1Vvdm6gOxyskVpfZOC/9Qb6tMCySO&#xa;rgvhSlNLwxaf2Xs0VfqadCHqYMxeYRyziTCuB8TytkVy0clBtPy2kpXHwXxjWYHZ6fGoHuqYpq6o&#xa;tTT1OOzcenaWbsy7Kr4HxI61xsFAvPxqzqPo7CbjnaOqcta9ntwfarhK8mxX956h4JFz/n+oVPeH&#xa;8TM+kKJyhm3+cStG0LERFu+QJGFWwfk/xg/U6JO4/MM0NV7JFsIKzUpMrKGyAcTl9SkQy5sUDSTo&#xa;i8Yg+/xDXXFcQMut5eK26a1c/BPjJmlaA9dt1w7EdEF67IWNxfGgbbAzbIl9VX415xHo+a86R5Xl&#xa;TGyZhxs+VHCVxvRZi74fCh+5c+q8Iz3bTH0gRaUJ26xEReUC1FuFMqxyFneuNA1Q9BLCtjacKr1R&#xa;qpC6HeKZgzF9AcOqgFgeTJv/rdHxjq4Ohw2MOrNjHmn+/OMdD8vFuHbOFMuPf8zBuHbAPU/pdhWQ&#xa;GB+wPG7PIuCeR9Exrapz5JYTmN4oXU9LZyjhKoXtT7tgfPrbuP1PPrWy5veUM/WBFJUjbLNSWBeY&#xa;+qJihTD+YcUpGqLE9Rqe2VbpvXS1gpcqJ8QcTNGYqWsExPLmf2toTLfYFjv+Yf7EbNL8zUbTNBum&#xa;V8S1NJVg4/ZgDIil2w4HY+WKx+TY15xHSDxmhnFbwiw9t5yg7vW0dIYSrlLp6enjr//xAEo08xvW&#xa;meeAFJVG9ln5uEF9UUEFq/Rs8IUu7FdVvCp9TbqgVCEhlgfDzMFYekZRqT0gZqvp2VxCLD+whmFl&#xa;0kZa5WAsfuzJQdjIuGFYXDuflk+NXYDbnoMpxfeApPGZhx1rvfwM5lF1/ovwinz4h+fFzp3B/S3b&#xa;wZCOzrX8aVE9sIKuru49PfvMlg2kcDRhm5W4NFTb1EBKDWxLBfK8nsehgKv0eCx529pYvaZrX88+&#xa;s+UCsaGOUXfo0G4gW4uDeV7P41DAVVYxdfqCQ5MTVtDd07u7Z5/JZLZtXGU9ps5YeIg6l4cee+br&#xa;0LvfjclkMts2rrIR02Ys/DGdy8Qpc47xwjOZTIa4ymYIL0DmRXeZTKYSV5nJZDKDp3/Y/wEhljlE&#xa;z28IGQAAAABJRU5ErkJggg==&#xa;" preserveAspectRatio="none" x="0" width="373.33334" id="image28"/>
+                    </ns0:svg>
+                </logo>
+                <logo storage="xml" type="svg" name="Qet.svg">
+                    <ns0:svg viewBox="0 0 600.000000 600.000000" height="600.000000pt" version="1.0" preserveAspectRatio="xMidYMid meet" width="600.000000pt">
+                        <ns0:metadata>&#xd;
+Created by potrace 1.10, written by Peter Selinger 2001-2011&#xd;
+</ns0:metadata>
+                        <ns0:g fill="#000000" transform="translate(0.000000,600.000000) scale(0.100000,-0.100000)" stroke="none">
+                            <ns0:path d="M3585 5980 c-33 -36 -52 -136 -44 -225 4 -44 8 -206 8 -360 l1 -281&#xa;-157 -47 c-288 -88 -484 -170 -537 -226 l-29 -30 38 -50 37 -51 60 0 c38 0&#xa;148 21 310 60 138 33 253 58 256 55 3 -2 -7 -118 -22 -257 -57 -552 -116&#xa;-1218 -116 -1324 l0 -43 -127 -40 c-314 -98 -571 -166 -747 -196 -105 -18&#xa;-138 -19 -153 -4 -8 8 -13 8 -17 0 -4 -7 -43 -11 -95 -11 -75 0 -93 3 -122 23&#xa;-36 24 -53 51 -64 105 l-7 32 64 0 c129 1 212 35 371 153 163 120 287 258 355&#xa;393 51 101 64 172 60 315 -3 117 -5 128 -30 167 -58 86 -181 123 -300 88 -96&#xa;-27 -199 -105 -280 -210 -140 -181 -264 -383 -334 -544 l-32 -74 -6 74 c-3 40&#xa;-8 141 -11 223 -22 613 -177 1181 -402 1480 -242 321 -489 475 -762 475 -335&#xa;0 -563 -209 -707 -648 -51 -154 -58 -209 -10 -77 118 324 285 507 512 561 89&#xa;21 183 14 337 -25 146 -37 185 -55 295 -141 220 -170 391 -418 497 -721 116&#xa;-333 161 -700 152 -1237 -6 -378 -35 -583 -119 -842 -37 -117 -130 -310 -196&#xa;-410 -56 -84 -162 -214 -176 -215 -5 0 -20 38 -33 85 -101 360 -213 628 -276&#xa;662 -49 26 -114 -15 -156 -99 -52 -104 -115 -458 -96 -543 11 -48 25 -35 25&#xa;23 0 73 27 226 57 320 44 141 116 188 168 109 33 -50 93 -211 155 -416 69&#xa;-231 70 -223 -10 -263 -173 -88 -352 -76 -522 36 -337 222 -502 671 -459 1247&#xa;36 474 160 851 398 1214 101 153 240 293 338 340 78 37 178 50 237 31 50 -17&#xa;113 -74 164 -150 56 -84 59 -53 4 45 -51 92 -124 173 -186 204 -41 21 -63 25&#xa;-130 25 -74 -1 -89 -4 -160 -39 -161 -80 -335 -297 -489 -611 -172 -349 -260&#xa;-721 -272 -1150 -9 -342 27 -558 145 -858 53 -133 114 -223 234 -345 151 -152&#xa;287 -217 458 -216 107 0 192 19 289 64 35 17 66 30 70 30 4 0 13 -22 19 -49&#xa;16 -72 125 -372 199 -551 242 -586 496 -937 737 -1020 72 -24 103 -25 202 -3&#xa;71 16 80 20 151 86 123 115 202 252 245 424 20 76 23 113 22 278 -1 142 -5&#xa;206 -17 252 -18 69 -57 151 -94 200 -34 44 -115 83 -172 83 -57 0 -138 -37&#xa;-172 -78 l-26 -30 -14 71 c-7 40 -12 79 -11 87 2 8 4 105 5 215 2 179 4 205&#xa;23 245 24 51 49 77 59 60 20 -32 36 30 19 74 -14 36 -65 4 -87 -54 -3 -8 -6&#xa;-2 -7 15 -1 17 -5 39 -9 50 -13 31 -25 -152 -26 -367 0 -104 -1 -188 -2 -188&#xa;0 0 -12 19 -26 43 -14 23 -41 58 -61 76 -34 33 -36 38 -36 100 0 40 16 138 40&#xa;247 47 212 93 477 115 653 8 68 16 125 17 126 2 1 41 7 88 13 164 23 362 98&#xa;536 203 98 59 264 180 331 242 l46 42 -6 -139 c-4 -77 -7 -188 -7 -247 0 -92&#xa;-2 -108 -15 -103 -12 5 -15 -2 -15 -32 0 -22 -7 -156 -15 -299 -7 -143 -17&#xa;-373 -21 -511 l-7 -251 -53 -32 c-61 -38 -107 -39 -112 -4 -2 14 3 23 16 27&#xa;42 14 102 171 102 267 0 105 -38 129 -77 49 -48 -99 -88 -329 -69 -403 21 -84&#xa;96 -73 166 25 l28 38 6 -52 c4 -29 9 -74 12 -100 7 -57 27 -89 45 -71 9 9 9&#xa;15 0 26 -18 22 -30 149 -31 317 0 173 17 634 29 780 8 94 8 94 10 26 2 -97 18&#xa;-143 71 -198 47 -49 73 -58 111 -38 39 21 53 69 57 198 4 119 4 122 -17 122&#xa;-17 0 -21 -6 -21 -35 0 -20 -5 -35 -12 -35 -21 0 6 554 57 1180 53 637 106&#xa;1162 121 1192 33 65 165 129 363 177 170 42 364 74 447 75 63 0 80 -4 145 -36&#xa;41 -21 102 -62 136 -93 33 -30 64 -55 67 -55 12 0 6 52 -10 83 -36 69 -120&#xa;181 -173 228 -83 74 -134 89 -297 89 l-134 0 -254 -70 c-139 -38 -256 -70&#xa;-259 -70 -4 0 -7 51 -7 113 0 182 -19 483 -35 559 -20 96 -35 118 -84 118 -25&#xa;0 -44 -7 -56 -20z m-878 -2002 c53 -50 10 -155 -141 -345 -100 -126 -261 -243&#xa;-383 -278 -30 -8 -29 -1 11 92 139 325 286 506 441 544 46 11 47 11 72 -13z&#xa;m-793 -1127 c47 -90 182 -161 309 -161 26 0 47 -5 47 -11 0 -6 -11 -88 -24&#xa;-182 -30 -206 -43 -356 -51 -577 -3 -91 -8 -198 -11 -237 l-6 -73 -49 0 c-69&#xa;0 -104 -21 -134 -80 -14 -27 -25 -55 -25 -62 1 -7 7 1 14 17 33 74 109 102&#xa;169 62 l27 -17 0 -134 c0 -183 18 -475 35 -565 15 -77 38 -125 58 -118 45 15&#xa;97 185 104 345 6 109 7 113 35 137 16 14 37 25 46 25 32 0 157 -27 178 -38 93&#xa;-50 153 -230 140 -418 -13 -191 -95 -395 -200 -500 -137 -136 -282 -125 -473&#xa;36 -230 193 -476 647 -665 1224 -32 99 -58 186 -58 195 0 9 25 45 56 81 221&#xa;258 383 624 444 1003 7 42 14 77 16 77 2 0 10 -13 18 -29z m416 -326 c-18&#xa;-140 -85 -518 -95 -540 -9 -18 5 229 20 360 27 231 46 334 64 338 9 2 19 1 23&#xa;-3 5 -3 -1 -73 -12 -155z m-49 -1096 c54 -85 81 -206 63 -281 -3 -16 -2 -28 3&#xa;-28 23 0 -29 -281 -59 -317 -44 -54 -77 174 -78 536 0 173 0 174 20 156 11&#xa;-10 34 -40 51 -66z"/>
+                            <ns0:path d="M4450 2678 c0 -13 -7 -140 -15 -283 -8 -143 -18 -380 -21 -527 -4&#xa;-148 -10 -268 -14 -268 -35 0 -62 106 -57 233 2 81 -16 114 -21 38 -3 -37 -6&#xa;-42 -23 -38 -52 14 -89 -81 -89 -229 0 -136 45 -156 86 -36 26 78 30 81 37 36&#xa;7 -42 32 -74 58 -74 19 0 21 -8 34 -111 7 -55 28 -89 45 -73 8 8 7 18 -4 38&#xa;-8 15 -17 63 -21 106 -6 66 -4 82 12 106 17 26 17 28 0 21 -16 -6 -17 5 -17&#xa;156 1 89 5 250 10 357 21 435 24 570 12 570 -7 0 -12 -10 -12 -22z"/>
+                            <ns0:path d="M4857 2665 c-10 -31 -25 -297 -33 -573 -6 -203 -10 -252 -20 -248&#xa;-20 8 -51 -39 -63 -95 -12 -54 -13 -199 -2 -238 10 -36 36 -49 58 -28 18 16&#xa;20 13 37 -53 10 -39 21 -70 25 -70 4 0 3 42 -2 92 -8 77 -6 109 9 188 l19 95&#xa;5 -137 c3 -81 10 -142 16 -148 8 -8 13 56 16 247 6 306 -7 377 -27 153 -6 -68&#xa;-30 -158 -47 -175 -10 -10 -10 31 13 666 11 302 10 370 -4 324z"/>
+                            <ns0:path d="M3777 2534 c-4 -4 -7 -72 -7 -151 0 -78 -4 -143 -8 -143 -21 0 -92&#xa;-73 -92 -94 0 -34 9 -37 52 -15 22 11 41 19 43 17 2 -2 -1 -79 -6 -173 -14&#xa;-283 -16 -642 -2 -655 18 -19 26 22 18 91 -10 84 15 738 29 769 14 30 71 70&#xa;102 70 13 0 30 -10 40 -22 16 -23 16 -23 10 11 -7 40 -31 80 -51 88 -8 3 -35&#xa;-7 -60 -21 l-45 -27 -1 108 c-1 111 -8 160 -22 147z"/>
+                            <ns0:path d="M5307 2076 c-3 -8 -9 -46 -13 -85 -5 -60 -9 -69 -19 -55 -16 23 -42&#xa;12 -56 -23 -18 -45 -41 -214 -36 -265 3 -40 1 -48 -13 -48 -21 0 -45 26 -56&#xa;60 -4 14 -8 75 -8 135 -1 64 -5 111 -11 113 -5 1 -11 -16 -13 -39 -3 -35 -6&#xa;-40 -23 -36 -52 14 -89 -81 -89 -229 0 -140 45 -155 90 -28 l24 69 8 -40 c14&#xa;-65 58 -96 88 -60 8 9 21 13 35 9 20 -5 27 1 49 43 l25 48 0 -250 0 -250 -90&#xa;-68 c-53 -39 -100 -67 -114 -67 -103 0 -110 -104 -9 -138 21 -8 58 -21 82 -29&#xa;24 -8 69 -39 101 -69 32 -30 62 -54 66 -54 5 0 5 94 2 210 l-6 209 52 46 c59&#xa;51 55 61 -5 14 -21 -17 -41 -30 -43 -27 -10 10 -6 622 5 716 12 99 8 186 -10&#xa;197 -4 3 -10 -1 -13 -9z m-7 -1111 c0 -74 -3 -135 -6 -135 -3 0 -16 13 -30 29&#xa;-13 16 -50 39 -81 51 -32 13 -60 25 -63 27 -5 5 161 162 173 163 4 0 7 -61 7&#xa;-135z"/>
+                            <ns0:path d="M5805 1993 c-4 -21 -15 -105 -25 -188 l-18 -150 5 176 c4 115 2 178&#xa;-4 182 -13 8 -20 -59 -29 -265 -3 -82 -10 -148 -14 -148 -36 0 -64 109 -55&#xa;220 3 43 1 81 -4 90 -9 13 -11 13 -15 0 -3 -8 -6 -28 -8 -45 -2 -24 -7 -30&#xa;-24 -28 -49 5 -84 -90 -84 -233 0 -136 45 -156 86 -36 26 78 30 81 37 36 7&#xa;-43 32 -74 60 -74 19 0 19 -5 14 -77 -14 -167 22 -165 49 2 8 50 8 50 12 13 3&#xa;-37 14 -48 27 -29 3 6 11 53 19 106 7 52 15 97 17 100 3 2 6 -87 7 -198 3&#xa;-267 21 -387 56 -387 16 0 51 67 61 115 l6 30 -14 -30 c-8 -17 -21 -36 -30&#xa;-44 -15 -11 -18 -10 -27 14 -24 62 -31 227 -24 554 6 284 5 333 -7 329 -10 -3&#xa;-19 -43 -31 -129 l-17 -124 1 105 c1 135 0 150 -11 150 -5 0 -12 -17 -16 -37z"/>
+                            <ns0:path d="M3835 1893 c-9 -147 -6 -473 5 -493 15 -26 19 24 22 230 3 194 3 195&#xa;31 243 23 39 31 46 42 37 32 -27 49 37 21 76 -18 24 -40 13 -73 -36 l-23 -33&#xa;0 47 c0 25 -4 46 -9 46 -4 0 -12 -53 -16 -117z"/>
+                            <ns0:path d="M5408 1980 c-11 -51 -22 -500 -14 -543 15 -82 24 -26 28 171 3 189 5&#xa;210 25 248 26 48 48 70 58 54 13 -22 25 -8 25 29 0 42 -20 67 -45 57 -8 -3&#xa;-25 -23 -38 -43 l-22 -38 -5 50 c-5 50 -5 50 -12 15z"/>
+                            <ns0:path d="M2545 1941 c-35 -40 -76 -206 -82 -332 -5 -109 -4 -118 16 -138 39&#xa;-39 88 -22 140 50 l29 39 6 -40 c12 -75 61 -91 121 -39 34 30 92 116 84 124&#xa;-3 2 -29 -12 -59 -31 -64 -41 -113 -44 -118 -7 -2 14 3 23 16 27 42 14 102&#xa;168 102 262 0 95 -31 132 -66 79 -23 -36 -62 -166 -76 -258 -12 -79 -12 -80&#xa;-57 -108 -43 -28 -111 -40 -111 -20 0 5 -3 16 -6 24 -3 9 2 16 15 20 24 6 63&#xa;67 85 130 45 133 19 281 -39 218z"/>
+                            <ns0:path d="M3446 1938 c-22 -35 -62 -173 -76 -261 -23 -138 0 -227 57 -227 27 0&#xa;109 71 119 102 5 16 8 18 15 7 5 -8 9 -24 9 -35 0 -32 38 -74 66 -74 18 0 31&#xa;12 54 53 37 65 38 74 1 48 -37 -27 -77 -27 -91 -2 -20 38 0 235 29 290 13 23&#xa;46 28 54 9 10 -24 7 41 -3 66 -13 34 -42 33 -62 -1 -20 -35 -46 -149 -54 -242&#xa;l-7 -72 -51 -30 c-62 -35 -109 -36 -114 -1 -2 15 2 22 12 22 41 0 106 162 106&#xa;265 0 97 -30 136 -64 83z"/>
+                            <ns0:path d="M4094 1916 c-29 -45 -46 -130 -50 -261 -5 -112 -3 -135 13 -165 20&#xa;-38 54 -50 79 -29 15 12 64 101 64 115 0 3 -14 -6 -31 -21 -41 -34 -79 -31&#xa;-97 8 -11 22 -11 46 -2 123 6 52 17 112 24 132 14 39 42 54 57 30 6 -8 9 1 9&#xa;28 0 63 -36 85 -66 40z"/>
+                        </ns0:g>
+                    </ns0:svg>
+                </logo>
+            </logos>
+            <grid rows="11;11;11;11;" cols="t3%;t8%;t3%;t3%;t3%;t5%;t9%;t10%;t11%;r100%;t7%;t10%;t4%;t3%;t4%;">
+                <field valign="center" displaylabel="true" fontsize="9" row="0" col="0" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="0" col="1" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="0" col="2" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="0" col="3" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="0" col="4" name="datum" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Datum</translation>
+                        <translation lang="en">%date</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">تاريخ</translation>
+                        <translation lang="hr">Datum</translation>
+                        <translation lang="it">Data</translation>
+                        <translation lang="ro">Data</translation>
+                        <translation lang="cs">Datum</translation>
+                        <translation lang="de">Datum</translation>
+                        <translation lang="en">Date</translation>
+                        <translation lang="fr">Date</translation>
+                        <translation lang="pl">Data</translation>
+                        <translation lang="ru">Дата</translation>
+                        <translation lang="ca">Data</translation>
+                        <translation lang="pt">Data</translation>
+                        <translation lang="es">Fecha</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="0" col="5" name="Datum" align="left" hadjust="true">
+                    <value>
+                        <translation lang="fr">%{date}</translation>
+                    </value>
+                    <label/>
+                </field>
+                <logo rowspan="3" row="0" col="6" name="Logo" resource="wvDanHitzacker.svg" colspan="1"/>
+                <field valign="center" displaylabel="false" rowspan="1" fontsize="8" row="0" col="8" name="projektname" align="center" hadjust="true">
+                    <value>
+                        <translation lang="en">%{projecttitle}</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Projekttitel</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" rowspan="3" fontsize="8" row="0" col="9" name="title" align="center" hadjust="true">
+                    <value>
+                        <translation lang="en">%{title}&#xd;
+%{title1}</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">عنوان</translation>
+                        <translation lang="hr">Naslov</translation>
+                        <translation lang="it">Titolo</translation>
+                        <translation lang="ro">Titlu</translation>
+                        <translation lang="cs">Název</translation>
+                        <translation lang="de">Titel</translation>
+                        <translation lang="en">Title</translation>
+                        <translation lang="da">Titel</translation>
+                        <translation lang="fr">Titre</translation>
+                        <translation lang="pl">Tytuł</translation>
+                        <translation lang="ru">Название</translation>
+                        <translation lang="ca">Títol</translation>
+                        <translation lang="pt">Título</translation>
+                        <translation lang="es">Título</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" rowspan="1" fontsize="7" row="0" col="10" name="Vereilung" align="left" hadjust="true" colspan="1">
+                    <value>
+                        <translation lang="de">%verteilung</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">ملف</translation>
+                        <translation lang="hr">Datoteka</translation>
+                        <translation lang="it">File</translation>
+                        <translation lang="ro">Fisier</translation>
+                        <translation lang="cs">Soubor</translation>
+                        <translation lang="de">Verteilung</translation>
+                        <translation lang="en">File</translation>
+                        <translation lang="da">Filnavn</translation>
+                        <translation lang="fr">Fichier</translation>
+                        <translation lang="pl">Plik</translation>
+                        <translation lang="ru">Файл</translation>
+                        <translation lang="ca">Fitxer</translation>
+                        <translation lang="pt">Ficheiro</translation>
+                        <translation lang="es">Archivo</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="0" col="12" name="Anlage" align="right" hadjust="true">
+                    <value>
+                        <translation lang="de">Anlage  =</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Anlage</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="5" row="0" col="13" name="Anlage" align="left" hadjust="true" colspan="1">
+                    <value>
+                        <translation lang="en">%{plant}</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">ملف</translation>
+                        <translation lang="hr">Datoteka</translation>
+                        <translation lang="it">File</translation>
+                        <translation lang="ro">Fisier</translation>
+                        <translation lang="cs">Soubor</translation>
+                        <translation lang="de">Anlage</translation>
+                        <translation lang="en">plant</translation>
+                        <translation lang="da">Filnavn</translation>
+                        <translation lang="fr">Fichier</translation>
+                        <translation lang="pl">Plik</translation>
+                        <translation lang="ru">Файл</translation>
+                        <translation lang="ca">Fitxer</translation>
+                        <translation lang="pt">Ficheiro</translation>
+                        <translation lang="es">Archivo</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="1" col="0" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="1" col="1" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="1" col="2" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="1" col="3" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="1" col="4" name="bearbeited" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Bearb.</translation>
+                        <translation lang="en">%author</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Bearbeited</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="1" col="5" name="DESSIN" align="left" hadjust="true">
+                    <value>
+                        <translation lang="en">%author</translation>
+                        <translation lang="fr">%dessin</translation>
+                    </value>
+                    <label>
+                        <translation lang="fr">design</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="1" col="12" name="Ort" align="right" hadjust="true">
+                    <value>
+                        <translation lang="de">Ort  +</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Ort</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="5" row="1" col="13" name="label5" align="left" hadjust="true" colspan="1">
+                    <value>
+                        <translation lang="en">%{locmach}</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="0" name="version" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="1" name="Änderung" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="2" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="9" row="2" col="3" name="" align="center" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="4" name="geprüft" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Gebr.</translation>
+                        <translation lang="fr">CONTROL</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Geprüft</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="5" name="CONTROL" align="left" hadjust="true">
+                    <value>
+                        <translation lang="fr">%control</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="8" name="projektzeile2" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">%{projektzeile2}</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Projektzeile</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" rowspan="1" fontsize="8" row="2" col="10" name="label3" align="left" hadjust="true">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="true" rowspan="1" fontsize="9" row="2" col="11" name="" align="center" hadjust="true" colspan="1">
+                    <value/>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="5" row="2" col="13" name="Blatt" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Blatt</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Blatt</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="2" col="14" name="FOLIO" align="left" hadjust="true">
+                    <value>
+                        <translation lang="en">%folio-id</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">صفحة</translation>
+                        <translation lang="hr">List</translation>
+                        <translation lang="it">Foglio</translation>
+                        <translation lang="ro">Pagina</translation>
+                        <translation lang="cs">Folio</translation>
+                        <translation lang="de">Seite</translation>
+                        <translation lang="en">Folio</translation>
+                        <translation lang="da">Ark</translation>
+                        <translation lang="fr">Folio</translation>
+                        <translation lang="pl">Arkusz</translation>
+                        <translation lang="ru">Фолио</translation>
+                        <translation lang="ca">Folio</translation>
+                        <translation lang="pt">Folha</translation>
+                        <translation lang="es">Folio</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="4" row="3" col="0" name="rev" align="center" hadjust="true">
+                    <value>
+                        <translation lang="fr">REV</translation>
+                    </value>
+                    <label>
+                        <translation lang="fr">rev</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="4" row="3" col="1" name="Änderung" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Änderung</translation>
+                        <translation lang="fr">MODIFICATION</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">Änderung</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="4" row="3" col="2" name="DATE" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Datum</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">تاريخ</translation>
+                        <translation lang="hr">Datum</translation>
+                        <translation lang="it">Data</translation>
+                        <translation lang="ro">Data</translation>
+                        <translation lang="cs">Datum</translation>
+                        <translation lang="de">Datum</translation>
+                        <translation lang="en">Date</translation>
+                        <translation lang="da">Dato</translation>
+                        <translation lang="fr">Date</translation>
+                        <translation lang="pl">Data</translation>
+                        <translation lang="ru">Дата</translation>
+                        <translation lang="ca">Data</translation>
+                        <translation lang="pt">Data</translation>
+                        <translation lang="es">Fecha</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="true" fontsize="4" row="3" col="3" name="Name" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Name</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="3" col="4" name="Norm" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">Norm</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="3" col="5" name="APROUV" align="left" hadjust="true">
+                    <value>
+                        <translation lang="fr">%aprouv</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="3" col="8" name="origine" align="left" hadjust="true">
+                    <value/>
+                    <label>
+                        <translation lang="fr">origine</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="5" row="3" col="13" name="von" align="center" hadjust="true">
+                    <value>
+                        <translation lang="de">von</translation>
+                    </value>
+                    <label>
+                        <translation lang="de">von</translation>
+                    </label>
+                </field>
+                <field valign="center" displaylabel="false" fontsize="6" row="3" col="14" name="TOTAL" align="left" hadjust="true">
+                    <value>
+                        <translation lang="fr">%folio-total</translation>
+                    </value>
+                    <label>
+                        <translation lang="ar">صفحة</translation>
+                        <translation lang="hr">List</translation>
+                        <translation lang="it">Foglio</translation>
+                        <translation lang="ro">Pagina</translation>
+                        <translation lang="cs">Folio</translation>
+                        <translation lang="de">Seite</translation>
+                        <translation lang="en">Folio</translation>
+                        <translation lang="da">Ark</translation>
+                        <translation lang="fr">Folio</translation>
+                        <translation lang="pl">Arkusz</translation>
+                        <translation lang="ru">Фолио</translation>
+                        <translation lang="ca">Folio</translation>
+                        <translation lang="pt">Folha</translation>
+                        <translation lang="es">Folio</translation>
+                    </label>
+                </field>
+            </grid>
+        </titleblocktemplate>
+    </titleblocktemplates>
+    <properties>
+        <property show="1" name="savedfilename">test</property>
+        <property show="1" name="savedfilepath">C:/Users/Chuck/WV_Abwasser/QET/Projekte/Neuer Ordner (2)/test.qet</property>
+        <property show="1" name="saveddate-us">2021-04-24</property>
+        <property show="1" name="saveddate-eu">24-04-2021</property>
+        <property show="1" name="savedtime">12:33</property>
+        <property show="1" name="saveddate">24.04.2021</property>
+    </properties>
+    <newdiagrams>
+        <border rows="8" cols="16" colsize="64" rowsize="80" displayrows="false" displaycols="true"/>
+        <inset author="A.Sch" locmach="%locmach" folio="%id von %total" indexrev="%indexrev" title="Inhalt 1" filename="%filname" date="20190314" displayAt="bottom" titleblocktemplate="WV_DinA4" titleblocktemplateCollection="custom" version="" auto_page_num="Créer un Folio Numérotation Auto" plant="%plant">
+            <properties>
+                <property show="1" name="control"></property>
+                <property show="1" name="author"></property>
+                <property show="1" name="verteilung"></property>
+                <property show="1" name="aprouv"></property>
+                <property show="1" name="folio-total"></property>
+                <property show="1" name="von"></property>
+                <property show="1" name="title1"></property>
+                <property show="1" name="folio-id"></property>
+            </properties>
+        </inset>
+        <conductors type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" condsize="1" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" vertirotatetext="270"/>
+        <report label="/%f.%c"/>
+        <xrefs>
+            <xref powerprefix="H" switchprefix="W" displayhas="contacts" snapto="bottom" xrefpos="AlignBaseline" master_label="/%f.%c" type="coil" slave_label="/%f.%c" delayprefix="" showpowerctc="true" offset="150"/>
+            <xref powerprefix="" switchprefix="" displayhas="cross" snapto="label" xrefpos="" master_label="/%f.%c" type="protection" slave_label="/%f.%c" delayprefix="" showpowerctc="false" offset="40"/>
+            <xref powerprefix="" switchprefix="" displayhas="cross" snapto="label" xrefpos="" master_label="/%f.%c" type="commutator" slave_label="/%f.%c" delayprefix="" showpowerctc="false" offset="40"/>
+        </xrefs>
+        <conductors_autonums current_autonum="" freeze_new_conductors="false"/>
+        <folio_autonums/>
+        <element_autonums current_autonum="" freeze_new_elements="false"/>
+    </newdiagrams>
+    <diagram displaycols="true" date="20190314" folio="%id von %total" freezeNewElement="false" auto_page_num="" indexrev="%indexrev" title="Inhalt 1" filename="%filname" rows="8" height="660" cols="16" author="A.Sch" rowsize="80" freezeNewConductor="false" colsize="64" plant="%plant" locmach="%locmach" version="0.80c+87c957a06d79751d3" titleblocktemplate="WV_DinA4" titleblocktemplateCollection="embedded" order="1" displayAt="bottom" displayrows="false">
+        <properties>
+            <property show="1" name="control"></property>
+            <property show="1" name="author"></property>
+            <property show="1" name="verteilung"></property>
+            <property show="1" name="aprouv"></property>
+            <property show="1" name="folio-total"></property>
+            <property show="1" name="von"></property>
+            <property show="1" name="title1"></property>
+            <property show="1" name="folio-id"></property>
+        </properties>
+        <defaultconductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" condsize="1" onetextperfolio="0" bus="" horizontal-alignment="AlignBottom" text_color="#000000" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" vertirotatetext="270"/>
+        <elements>
+            <element y="320" uuid="{e2f55410-d086-4bef-8ff7-92bb2fd09b6a}" type="embed://import/symbole/x/x_senkrecht_ziel-intern_oben_bmk.elmt" freezeLabel="false" prefix="X" orientation="0" x="280" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="-6" orientation="0" name="_" x="0" number="_" id="0"/>
+                    <terminal nameHidden="0" y="6" orientation="2" name="_" x="0" number="_" id="1"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula">-X1:PE</elementInformation>
+                    <elementInformation show="0" name="function">%p4%tSTANDARD%h%n%b%</elementInformation>
+                    <elementInformation show="1" name="label">-X1:PE</elementInformation>
+                    <elementInformation show="1" name="comment">Ziel intern oben</elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="-2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{2d96ad70-6d8a-4943-a77c-51d067632b2a}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="ElementInfo" x="-5">
+                        <text>-X1:PE</text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="320" uuid="{b913c5e3-3d0d-4640-a7d0-3e844bb01392}" type="embed://import/symbole/x/x_senkrecht_ziel-intern_oben_bmk.elmt" freezeLabel="false" prefix="X" orientation="0" x="220" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="-6" orientation="0" name="_" x="0" number="_" id="2"/>
+                    <terminal nameHidden="0" y="6" orientation="2" name="_" x="0" number="_" id="3"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula">-X1:1</elementInformation>
+                    <elementInformation show="0" name="function">%p1%tSTANDARD%h%n%b%</elementInformation>
+                    <elementInformation show="1" name="label">-X1:1</elementInformation>
+                    <elementInformation show="1" name="comment">Ziel intern oben</elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="-2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{14f082d0-f6ad-4194-85b6-b4d70e06ce87}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="ElementInfo" x="-5">
+                        <text>-X1:1</text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="320" uuid="{6d48f118-26de-466e-8125-4031eb73bf1f}" type="embed://import/symbole/x/x_senkrecht_ziel-intern_oben_bmk.elmt" freezeLabel="false" prefix="X" orientation="0" x="260" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="-6" orientation="0" name="_" x="0" number="_" id="4"/>
+                    <terminal nameHidden="0" y="6" orientation="2" name="_" x="0" number="_" id="5"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula">-X1:3</elementInformation>
+                    <elementInformation show="0" name="function">%p3%tSTANDARD%h%n%b%</elementInformation>
+                    <elementInformation show="1" name="label">-X1:3</elementInformation>
+                    <elementInformation show="1" name="comment">Ziel intern oben</elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="-2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{1a81867a-34c1-49cf-a8bf-9541090a9076}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="ElementInfo" x="-5">
+                        <text>-X1:3</text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="200" uuid="{d713fa09-1857-418e-a538-574ca4d48b94}" type="embed://import/10_electric/k/k_s-leist-3pol.elmt" freezeLabel="false" prefix="K" orientation="0" x="220" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="0" number="_" id="6"/>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="20" number="_" id="7"/>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="40" number="_" id="8"/>
+                    <terminal nameHidden="0" y="36" orientation="2" name="_" x="0" number="_" id="9"/>
+                    <terminal nameHidden="0" y="36" orientation="2" name="_" x="20" number="_" id="10"/>
+                    <terminal nameHidden="0" y="36" orientation="2" name="_" x="40" number="_" id="11"/>
+                </terminals>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="10" Halignment="AlignRight" Valignment="AlignBottom" uuid="{f02419d3-d029-4fab-b605-5d4bc608b3ea}" text_width="-1" frame="false" rotation="0" font="Sans Serif,10,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" text_from="ElementInfo" x="-13">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="-4" Halignment="AlignLeft" Valignment="AlignTop" uuid="{1f6eae82-976c-4ae7-b826-dfc1334c6320}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="18">
+                        <text>3</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="-4" Halignment="AlignLeft" Valignment="AlignTop" uuid="{c9a4a7bb-b587-48f2-a653-c1bddabaf3c0}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="38">
+                        <text>5</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="-4" Halignment="AlignLeft" Valignment="AlignTop" uuid="{e4aae64a-a7a1-418d-9d00-766ea305c788}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="-2">
+                        <text>1</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="27" Halignment="AlignLeft" Valignment="AlignBottom" uuid="{5806f06b-50ba-4e03-9e6e-edb711f4a6d0}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="-2">
+                        <text>2</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="27" Halignment="AlignLeft" Valignment="AlignBottom" uuid="{461db886-b84a-491d-82af-f0cfe8d319b5}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="18">
+                        <text>4</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="27" Halignment="AlignLeft" Valignment="AlignBottom" uuid="{c710dac8-0f26-4824-8d30-106588fcf16c}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="38">
+                        <text>6</text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="320" uuid="{79f0af7e-5c52-4737-b601-f2a68fad102e}" type="embed://import/symbole/x/x_senkrecht_ziel-intern_oben_bmk.elmt" freezeLabel="false" prefix="X" orientation="0" x="240" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="-6" orientation="0" name="_" x="0" number="_" id="12"/>
+                    <terminal nameHidden="0" y="6" orientation="2" name="_" x="0" number="_" id="13"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula">-X1:2</elementInformation>
+                    <elementInformation show="0" name="function">%p2%tSTANDARD%h%n%b%</elementInformation>
+                    <elementInformation show="1" name="label">-X1:2</elementInformation>
+                    <elementInformation show="1" name="comment">Ziel intern oben</elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="-2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{2772b45c-3177-4e6f-9f9d-5959d071e026}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="ElementInfo" x="-5">
+                        <text>-X1:2</text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="240" uuid="{81175511-462e-42c5-ba55-24d982c2be52}" type="embed://import/TB_-X1.elmt" freezeLabel="false" prefix="" orientation="0" x="630" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="60" number="_" id="14"/>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="80" number="_" id="15"/>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="100" number="_" id="16"/>
+                    <terminal nameHidden="0" y="4" orientation="0" name="_" x="120" number="_" id="17"/>
+                    <terminal nameHidden="0" y="256" orientation="2" name="_" x="60" number="_" id="18"/>
+                    <terminal nameHidden="0" y="256" orientation="2" name="_" x="80" number="_" id="19"/>
+                    <terminal nameHidden="0" y="256" orientation="2" name="_" x="100" number="_" id="20"/>
+                    <terminal nameHidden="0" y="256" orientation="2" name="_" x="120" number="_" id="21"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula"></elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="149.5" Halignment="AlignLeft" Valignment="AlignTop" uuid="{3a42bed7-fffb-4d4c-9eef-627d6a7edd11}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,13,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="9">
+                        <text>-X1</text>
+                        <color>#777777</color>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="206.8" Halignment="AlignLeft" Valignment="AlignTop" uuid="{8abf6eec-4397-46e1-9733-688b59e05a65}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="50">
+                        <text>1</text>
+                        <color>#555555</color>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="97.2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{2d7ab533-f4d1-4d80-a406-d97e5969a6d2}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="52">
+                        <text>/1.4</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="31" Halignment="AlignLeft" Valignment="AlignTop" uuid="{7953f744-f2a0-4b2a-bf97-0b8a7717e0ef}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="45">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="232" Halignment="AlignLeft" Valignment="AlignTop" uuid="{b4286ac2-97af-4ee7-9752-55e2c82ceecb}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="46">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="206.8" Halignment="AlignLeft" Valignment="AlignTop" uuid="{d3bba158-87f8-4a24-8fed-1b8fd2137afb}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="70">
+                        <text>2</text>
+                        <color>#555555</color>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="97.2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{2ae4e567-4da4-465a-8927-ff60329a8809}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="72">
+                        <text>/1.4</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="31" Halignment="AlignLeft" Valignment="AlignTop" uuid="{5b6813f2-48c1-4dad-91bc-e3affa7a0bf5}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="65">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="232" Halignment="AlignLeft" Valignment="AlignTop" uuid="{cc71c886-9d0e-459c-9cf1-52c03b3f1494}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="66">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="206.8" Halignment="AlignLeft" Valignment="AlignTop" uuid="{2c415bd5-1173-41d7-baad-33ef2d2398cb}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="90">
+                        <text>3</text>
+                        <color>#555555</color>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="97.2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{bdd8280c-c944-4eed-8efa-6bdf9de1ed19}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="92">
+                        <text>/1.4</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="31" Halignment="AlignLeft" Valignment="AlignTop" uuid="{0364f590-6ac1-4537-8b21-ee7db8650cc5}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="85">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="232" Halignment="AlignLeft" Valignment="AlignTop" uuid="{82863f55-f7be-4f2a-ac1c-3b9c2c0a48aa}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="86">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="206.8" Halignment="AlignLeft" Valignment="AlignTop" uuid="{4834cd33-7af6-41c0-b726-1c332efd1f3a}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="110">
+                        <text>PE</text>
+                        <color>#555555</color>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="97.2" Halignment="AlignLeft" Valignment="AlignTop" uuid="{e415c52c-0931-4eec-b358-6d7555385f79}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="112">
+                        <text>/1.4</text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="31" Halignment="AlignLeft" Valignment="AlignTop" uuid="{59ea8b37-a017-459f-96bf-54d74e256e0a}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="105">
+                        <text></text>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="232" Halignment="AlignLeft" Valignment="AlignTop" uuid="{fb5719d4-b9d4-43f3-82e7-27783a6a8f26}" text_width="-1" frame="false" rotation="270" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="106">
+                        <text></text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="500" uuid="{48967e3b-eb56-4849-b33b-556c938ab4ca}" type="embed://import/10_electric/m/m_3ph.elmt" freezeLabel="false" prefix="M" orientation="0" x="240" z="10">
+                <terminals>
+                    <terminal nameHidden="0" y="-17" orientation="0" name="_" x="-20" number="_" id="22"/>
+                    <terminal nameHidden="0" y="-17" orientation="0" name="_" x="0" number="_" id="23"/>
+                    <terminal nameHidden="0" y="-17" orientation="0" name="_" x="20" number="_" id="24"/>
+                    <terminal nameHidden="0" y="-16" orientation="0" name="_" x="40" number="_" id="25"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula">-%idM1</elementInformation>
+                    <elementInformation show="1" name="label">-1M1</elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text y="4" Halignment="AlignLeft" Valignment="AlignTop" uuid="{71e44ed0-e5aa-4885-bd0a-4598641c034a}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="ElementInfo" x="-51">
+                        <text>-1M1</text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text y="70" Halignment="AlignHCenter" Valignment="AlignBottom" uuid="{db5588f1-6dea-477c-a3bb-feaa517b4f05}" text_width="-1" frame="false" rotation="0" font="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0,Standard" keep_visual_rotation="true" text_from="UserText" x="-10">
+                        <text>Pfadtext</text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+        </elements>
+        <conductors>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="9" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="{effd020a-1daa-4932-9de1-8b982af352c5}" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" element2="{b913c5e3-3d0d-4640-a7d0-3e844bb01392}" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="24" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="{55a63c3c-e1a0-44d3-befc-3f0a6f18a3a0}" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" element2="{6d48f118-26de-466e-8125-4031eb73bf1f}" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="{effd020a-1daa-4932-9de1-8b982af352c5}" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="11" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" element1="{6d48f118-26de-466e-8125-4031eb73bf1f}" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="{effd020a-1daa-4932-9de1-8b982af352c5}" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="10" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" element1="{79f0af7e-5c52-4737-b601-f2a68fad102e}" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="{55a63c3c-e1a0-44d3-befc-3f0a6f18a3a0}" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="25" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" element1="{e2f55410-d086-4bef-8ff7-92bb2fd09b6a}" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="{55a63c3c-e1a0-44d3-befc-3f0a6f18a3a0}" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="22" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" element1="{b913c5e3-3d0d-4640-a7d0-3e844bb01392}" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" terminal1="{55a63c3c-e1a0-44d3-befc-3f0a6f18a3a0}" y="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" terminal2="23" condsize="1" freezeLabel="false" onetextperfolio="0" bus="" text_color="#000000" horizontal-alignment="AlignBottom" x="0" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" element1="{79f0af7e-5c52-4737-b601-f2a68fad102e}" vertirotatetext="270">
+                <sequentialNumbers/>
+            </conductor>
+        </conductors>
+    </diagram>
+    <diagram displaycols="true" date="20190314" folio="%id von %total" freezeNewElement="false" auto_page_num="" indexrev="%indexrev" title="Inhalt 1" filename="%filname" rows="8" height="660" cols="16" author="A.Sch" rowsize="80" freezeNewConductor="false" colsize="64" plant="%plant" locmach="%locmach" version="0.80c+87c957a06d79751d3" titleblocktemplate="WV_DinA4" titleblocktemplateCollection="embedded" order="2" displayAt="bottom" displayrows="false">
+        <properties>
+            <property show="1" name="control"></property>
+            <property show="1" name="author"></property>
+            <property show="1" name="verteilung"></property>
+            <property show="1" name="aprouv"></property>
+            <property show="1" name="folio-total"></property>
+            <property show="1" name="von"></property>
+            <property show="1" name="title1"></property>
+            <property show="1" name="folio-id"></property>
+        </properties>
+        <defaultconductor type="multi" bicolor="false" vertical-alignment="AlignRight" formula="" function="" displaytext="0" color2="#000000" dash-size="2" conductor_section="" conductor_color="" condsize="1" onetextperfolio="0" bus="" horizontal-alignment="AlignBottom" text_color="#000000" numsize="7" horizrotatetext="0" num="_" cable="" tension_protocol="" vertirotatetext="270"/>
+    </diagram>
+    <collection>
+        <category name="import">
+            <element name="TB_-X1.elmt">
+                <definition hotspot_y="24" height="440" type="element" hotspot_x="5" orientation="dyyy" version="0.4" width="140" link_type="simple">
+                    <uuid uuid="{b2411bd4-a4e8-11eb-a9ef-b8ee6583b98e}"/>
+                    <names>
+                        <name lang="de">Terminalblock TB_-X1</name>
+                        <name lang="ru">&amp;#x422;&amp;#x435;&amp;#x440;&amp;#x43C;&amp;#x438;&amp;#x43D;&amp;#x430;&amp;#x43B;&amp;#x44C;&amp;#x43D;&amp;#x44B;&amp;#x439; &amp;#x431;&amp;#x43B;&amp;#x43E;&amp;#x43A; TB_-X1</name>
+                        <name lang="pt">Bloco terminal TB_-X1</name>
+                        <name lang="en">Terminal block TB_-X1</name>
+                        <name lang="it">Terminal block TB_-X1</name>
+                        <name lang="fr">Bornier TB_-X1</name>
+                        <name lang="pl">Blok zacisk&amp;#xF3;w TB_-X1</name>
+                        <name lang="es">Bornero TB_-X1</name>
+                        <name lang="nl">Eindblok TB_-X1</name>
+                        <name lang="cs">Termin&amp;#xE1;lov&amp;#xFD; blok TB_-X1</name>
+                    </names>
+                    <dynamic_text font_size="10" y="125" uuid="{b2411bd5-a4e8-11eb-8e17-b8ee6583b98e}" text_width="-1" frame="false" text_from="ElementInfo" x="49" z="2">
+                        <text>-X1</text>
+                        <info_name>label</info_name>
+                    </dynamic_text>
+                    <informations>Terminal block</informations>
+                    <description>
+                        <rect y="70.0" height="120" antialias="false" x="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="44"/>
+                        <dynamic_text font_size="13" y="149.5" uuid="{b2411bd6-a4e8-11eb-8be0-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="9.0" z="3">
+                            <text>-X1</text>
+                            <color>#777777</color>
+                        </dynamic_text>
+                        <rect y="95.0" height="70" antialias="false" x="44" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6"/>
+                        <rect y="50.0" height="160" antialias="false" x="50" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20"/>
+                        <dynamic_text font_size="9" y="206.8" uuid="{b2411bd7-a4e8-11eb-a7aa-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="50.0" z="3">
+                            <text>1</text>
+                            <color>#555555</color>
+                        </dynamic_text>
+                        <dynamic_text font_size="6" y="97.2" uuid="{b2411bd8-a4e8-11eb-bafd-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="52.0" z="3">
+                            <text>/1.4</text>
+                        </dynamic_text>
+                        <circle diameter="4" y="128.0" antialias="false" x="58.0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" x1="60.0" y1="0" length2="1.5" x2="60.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="50"/>
+                        <dynamic_text font_size="6" y="31" uuid="{b2411bd9-a4e8-11eb-88fe-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="45.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="0" orientation="n" x="60.0"/>
+                        <line length1="1.5" x1="60.0" y1="210" length2="1.5" x2="60.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="260"/>
+                        <dynamic_text font_size="6" y="232" uuid="{b2411bda-a4e8-11eb-bb97-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="46.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="260" orientation="s" x="60.0"/>
+                        <rect y="50.0" height="160" antialias="false" x="70" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20"/>
+                        <dynamic_text font_size="9" y="206.8" uuid="{b2411bdb-a4e8-11eb-a697-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="70.0" z="3">
+                            <text>2</text>
+                            <color>#555555</color>
+                        </dynamic_text>
+                        <dynamic_text font_size="6" y="97.2" uuid="{b2411bdc-a4e8-11eb-83d6-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="72.0" z="3">
+                            <text>/1.4</text>
+                        </dynamic_text>
+                        <circle diameter="4" y="128.0" antialias="false" x="78.0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" x1="80.0" y1="0" length2="1.5" x2="80.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="50"/>
+                        <dynamic_text font_size="6" y="31" uuid="{b24142e2-a4e8-11eb-890b-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="65.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="0" orientation="n" x="80.0"/>
+                        <line length1="1.5" x1="80.0" y1="210" length2="1.5" x2="80.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="260"/>
+                        <dynamic_text font_size="6" y="232" uuid="{b24142e3-a4e8-11eb-b20a-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="66.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="260" orientation="s" x="80.0"/>
+                        <rect y="50.0" height="160" antialias="false" x="90" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20"/>
+                        <dynamic_text font_size="9" y="206.8" uuid="{b24142e4-a4e8-11eb-a7b8-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="90.0" z="3">
+                            <text>3</text>
+                            <color>#555555</color>
+                        </dynamic_text>
+                        <dynamic_text font_size="6" y="97.2" uuid="{b24142e5-a4e8-11eb-b2c1-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="92.0" z="3">
+                            <text>/1.4</text>
+                        </dynamic_text>
+                        <circle diameter="4" y="128.0" antialias="false" x="98.0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" x1="100.0" y1="0" length2="1.5" x2="100.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="50"/>
+                        <dynamic_text font_size="6" y="31" uuid="{b24142e6-a4e8-11eb-a47e-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="85.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="0" orientation="n" x="100.0"/>
+                        <line length1="1.5" x1="100.0" y1="210" length2="1.5" x2="100.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="260"/>
+                        <dynamic_text font_size="6" y="232" uuid="{b24142e7-a4e8-11eb-bd48-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="86.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="260" orientation="s" x="100.0"/>
+                        <rect y="50.0" height="160" antialias="false" x="110" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20"/>
+                        <dynamic_text font_size="9" y="206.8" uuid="{b24142e8-a4e8-11eb-a06f-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="110.0" z="3">
+                            <text>PE</text>
+                            <color>#555555</color>
+                        </dynamic_text>
+                        <dynamic_text font_size="6" y="97.2" uuid="{b24142e9-a4e8-11eb-b97f-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="112.0" z="3">
+                            <text>/1.4</text>
+                        </dynamic_text>
+                        <circle diameter="4" y="128.0" antialias="false" x="118.0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" x1="120.0" y1="0" length2="1.5" x2="120.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="50"/>
+                        <dynamic_text font_size="6" y="31" uuid="{b24142ea-a4e8-11eb-8755-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="105.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="0" orientation="n" x="120.0"/>
+                        <line length1="1.5" x1="120.0" y1="210" length2="1.5" x2="120.0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="260"/>
+                        <dynamic_text font_size="6" y="232" uuid="{b24142eb-a4e8-11eb-b342-b8ee6583b98e}" frame="false" rotation="270" text_from="UserText" x="106.0" z="3">
+                            <text/>
+                        </dynamic_text>
+                        <terminal y="260" orientation="s" x="120.0"/>
+                    </description>
+                </definition>
+            </element>
+            <names>
+                <name lang="es">Elementos importados</name>
+                <name lang="pt">elementos importados</name>
+                <name lang="nl">Elementen geïmporteerd</name>
+                <name lang="hr">Uvezeni elementi</name>
+                <name lang="da">Importerede elementer</name>
+                <name lang="sl">Uvoženi elementi</name>
+                <name lang="en">Imported elements</name>
+                <name lang="ru">Импортированные элементы</name>
+                <name lang="el">Εισηγμένα στοιχεία</name>
+                <name lang="cs">Zavedené prvky</name>
+                <name lang="tr">İthal öğeler</name>
+                <name lang="pl">Elementy importowane</name>
+                <name lang="ro">Elemente importate</name>
+                <name lang="fr">Éléments importés</name>
+                <name lang="de">Importierte elemente</name>
+                <name lang="it">Elementi importati</name>
+                <name lang="ca">Elements importats</name>
+            </names>
+            <category name="10_electric">
+                <names>
+                    <name lang="nl">Elektrotechniek</name>
+                    <name lang="es">Eléctrica</name>
+                    <name lang="da">Elektrisk</name>
+                    <name lang="el">Ηλεκτρικά</name>
+                    <name lang="ru">Электротехника</name>
+                    <name lang="en">Electric</name>
+                    <name lang="cs">Elektrotechnika</name>
+                    <name lang="pl">Elektrotechnika</name>
+                    <name lang="de">Elektrik</name>
+                    <name lang="fr">Electrique</name>
+                    <name lang="it">Elettrica</name>
+                </names>
+                <category name="k">
+                    <names>
+                        <name lang="de">K</name>
+                    </names>
+                    <element name="k_s-leist-3pol.elmt">
+                        <definition hotspot_y="4" height="50" type="element" hotspot_x="11" orientation="dyyy" version="0.70" width="60" link_type="slave">
+                            <uuid uuid="{e1a82f80-08f3-48b7-a789-9cab8b678942}"/>
+                            <names>
+                                <name lang="de">K_Schließer Leistung 3Pol</name>
+                            </names>
+                            <kindInformations>
+                                <kindInformation show="1" name="state">NO</kindInformation>
+                                <kindInformation show="1" name="number">3</kindInformation>
+                                <kindInformation show="1" name="type">power</kindInformation>
+                            </kindInformations>
+                            <informations/>
+                            <description>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="7" uuid="{05232eef-c152-4552-99bd-fb879c14027a}" text_width="-1" frame="false" font="Sans Serif,10,-1,5,50,0,0,0,0,0" rotation="0" text_from="ElementInfo" x="-20" z="1">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-4" uuid="{2f57acfd-c4b0-4c06-8414-bdc93d3c5508}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="18" z="2">
+                                    <text>3</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-4" uuid="{2f57acfd-c4b0-4c06-8414-bdc93d3c5508}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="38" z="3">
+                                    <text>5</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-4" uuid="{2f57acfd-c4b0-4c06-8414-bdc93d3c5508}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="4">
+                                    <text>1</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="27" uuid="{1798dbd6-105d-408d-bf85-7820ee042c87}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="5">
+                                    <text>2</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="27" uuid="{1798dbd6-105d-408d-bf85-7820ee042c87}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="18" z="6">
+                                    <text>4</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="27" uuid="{1798dbd6-105d-408d-bf85-7820ee042c87}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="38" z="7">
+                                    <text>6</text>
+                                </dynamic_text>
+                                <polygon closed="false" y3="40" x1="15" x3="20" y1="10" x2="20" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30"/>
+                                <polygon closed="false" y3="40" x1="35" x3="40" y1="10" x2="40" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30"/>
+                                <line length1="1.5" x1="40" y1="0" length2="1.5" x2="40" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10"/>
+                                <polygon closed="false" y3="40" x1="-5" x3="0" y1="10" x2="0" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30"/>
+                                <line length1="1.5" x1="20" y1="0" length2="1.5" x2="20" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10"/>
+                                <line length1="1.5" x1="0" y1="0" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10"/>
+                                <arc angle="-180" y="5.5" height="5" start="-90" antialias="true" x="37.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5"/>
+                                <arc angle="-180" y="5.5" height="5" start="-90" antialias="true" x="17.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5"/>
+                                <line length1="1.5" x1="18" y1="20" length2="1.5" x2="38" end1="none" antialias="false" end2="none" style="line-style:dashed;line-weight:thin;filling:none;color:black" y2="20"/>
+                                <arc angle="-180" y="5.5" height="5" start="-90" antialias="true" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5"/>
+                                <line length1="1.5" x1="-2" y1="20" length2="1.5" x2="17" end1="none" antialias="false" end2="none" style="line-style:dashed;line-weight:thin;filling:none;color:black" y2="20"/>
+                                <terminal y="0" orientation="n" x="20"/>
+                                <terminal y="0" orientation="n" x="40"/>
+                                <terminal y="40" orientation="s" x="20"/>
+                                <terminal y="40" orientation="s" x="40"/>
+                                <terminal y="40" orientation="s" x="0"/>
+                                <terminal y="0" orientation="n" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                    <element name="k_spule.elmt">
+                        <definition hotspot_y="8" height="60" type="element" hotspot_x="20" orientation="dyyy" version="0.70" width="40" link_type="master">
+                            <uuid uuid="{8b68ec52-d0a9-47eb-a2ca-f75867a1971b}"/>
+                            <names>
+                                <name lang="pl">Cewka</name>
+                                <name lang="fr">Bobine</name>
+                                <name lang="es">Bobina</name>
+                                <name lang="de">Spule</name>
+                                <name lang="be">Relais spoel (algemeen)</name>
+                                <name lang="ar">ملف</name>
+                                <name lang="cs">Cívka</name>
+                                <name lang="it">Bobina</name>
+                                <name lang="en">Coil</name>
+                                <name lang="ru">Обмотка</name>
+                                <name lang="el">Πηνίο</name>
+                                <name lang="nl">Spoel</name>
+                            </names>
+                            <kindInformations>
+                                <kindInformation show="1" name="type">coil</kindInformation>
+                            </kindInformations>
+                            <elementInformations/>
+                            <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                            <description>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="25" uuid="{80580914-c770-42e5-a5d4-314550b4501f}" text_width="-1" frame="false" font="Sans Serif,7,-1,5,25,0,0,0,0,0" rotation="0" text_from="UserText" x="0" z="1">
+                                    <text>A2</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-5" uuid="{450111e3-fb90-4423-980f-52434c93d7cc}" text_width="-1" frame="false" font="Sans Serif,7,-1,5,25,0,0,0,0,0" rotation="0" text_from="UserText" x="0" z="2">
+                                    <text>A1</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="10" uuid="{c7089e60-7671-4ec6-b1bd-b86a9d0a6223}" text_width="-1" frame="false" font="Sans Serif,10,-1,5,50,0,0,0,0,0" rotation="0" text_from="ElementInfo" x="-30" z="3">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignHCenter" Valignment="AlignBottom" y="170" uuid="{204dbf62-8851-4f09-bfc1-b3753959b3a7}" text_width="-1" frame="false" font="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="0" z="4">
+                                    <text/>
+                                    <info_name>comment</info_name>
+                                    <composite_text>%{comment}</composite_text>
+                                </dynamic_text>
+                                <rect y="13" height="16" rx="0" antialias="false" x="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" width="28" ry="0"/>
+                                <line length1="1.5" x1="0" y1="1" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="13"/>
+                                <line length1="1.5" x1="0" y1="29" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="41"/>
+                                <terminal y="0" orientation="n" x="0"/>
+                                <terminal y="42" orientation="s" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+                <category name="x">
+                    <names>
+                        <name lang="de">X</name>
+                    </names>
+                    <element name="x_senkrecht_ziel-intern_oben.elmt">
+                        <definition hotspot_y="14" height="30" type="element" hotspot_x="8" orientation="dyyy" version="0.80" width="20" link_type="simple">
+                            <uuid uuid="{52b7b1e1-eb84-4b20-8186-42184e8909e9}"/>
+                            <names>
+                                <name lang="de">X1  Klemme senkrecht (Ziel intern->oben)</name>
+                            </names>
+                            <elementInformations>
+                                <elementInformation show="1" name="label"/>
+                                <elementInformation show="1" name="manufacturer"/>
+                                <elementInformation show="1" name="machine-manufacturer-reference">X1</elementInformation>
+                                <elementInformation show="1" name="supplier"/>
+                                <elementInformation show="1" name="quantity"/>
+                                <elementInformation show="1" name="unity"/>
+                                <elementInformation show="1" name="plant"/>
+                                <elementInformation show="1" name="comment"/>
+                                <elementInformation show="1" name="manufacturer-reference"/>
+                                <elementInformation show="1" name="description"/>
+                                <elementInformation show="1" name="designation"/>
+                            </elementInformations>
+                            <informations/>
+                            <description>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="-15" uuid="{6c82c34b-7d52-4fb4-a64b-1a54fcc141e4}" text_width="-1" frame="false" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="0" z="1">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="-10" uuid="{670a0023-b06b-488f-8702-fc3fcde56cd8}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-22" z="2">
+                                    <text>X1</text>
+                                    <info_name>machine-manufacturer-reference</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="0" y1="10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3"/>
+                                <line length1="1.5" x1="0" y1="-10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <circle diameter="5" y="-2.5" antialias="true" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                                <rect y="0" height="6" rx="0" antialias="false" x="0" style="line-style:normal;line-weight:none;filling:none;color:black" width="6" ry="0"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="-1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <terminal y="10" orientation="s" x="0"/>
+                                <terminal y="-10" orientation="n" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                    <element name="x_senkrecht_ziel-intern_oben1.elmt">
+                        <definition hotspot_y="14" height="30" type="element" hotspot_x="8" orientation="dyyy" version="0.80" width="20" link_type="simple">
+                            <uuid uuid="{059ce258-7aab-4d52-89ed-d0c60806438c}"/>
+                            <names>
+                                <name lang="de">X1 ohne BMK</name>
+                            </names>
+                            <elementInformations>
+                                <elementInformation show="1" name="label"/>
+                                <elementInformation show="1" name="manufacturer"/>
+                                <elementInformation show="1" name="machine-manufacturer-reference">X1</elementInformation>
+                                <elementInformation show="1" name="supplier"/>
+                                <elementInformation show="1" name="quantity"/>
+                                <elementInformation show="1" name="unity"/>
+                                <elementInformation show="1" name="plant"/>
+                                <elementInformation show="1" name="comment"/>
+                                <elementInformation show="1" name="manufacturer-reference"/>
+                                <elementInformation show="1" name="description"/>
+                                <elementInformation show="1" name="designation"/>
+                            </elementInformations>
+                            <informations/>
+                            <description>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="-10" uuid="{670a0023-b06b-488f-8702-fc3fcde56cd8}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-22" z="1">
+                                    <text>X1</text>
+                                    <info_name>machine-manufacturer-reference</info_name>
+                                    <color>#ffffff</color>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="-15" uuid="{6c82c34b-7d52-4fb4-a64b-1a54fcc141e4}" text_width="-1" frame="false" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="0" z="2">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="0" y1="10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3"/>
+                                <line length1="1.5" x1="0" y1="-10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <circle diameter="5" y="-2.5" antialias="true" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                                <rect y="0" height="6" rx="0" antialias="false" x="0" style="line-style:normal;line-weight:none;filling:none;color:black" width="6" ry="0"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="-1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <terminal y="10" orientation="s" x="0"/>
+                                <terminal y="-10" orientation="n" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                    <element name="x_senkrecht_ziel-intern_oben2.elmt">
+                        <definition hotspot_y="14" height="30" type="element" hotspot_x="8" orientation="dyyy" version="0.80" width="20" link_type="simple">
+                            <uuid uuid="{94bbaa62-c645-4b57-b613-20ab6db23db5}"/>
+                            <names>
+                                <name lang="de">-X2</name>
+                            </names>
+                            <elementInformations>
+                                <elementInformation show="1" name="label"/>
+                                <elementInformation show="1" name="manufacturer"/>
+                                <elementInformation show="1" name="machine-manufacturer-reference">-X2</elementInformation>
+                                <elementInformation show="1" name="supplier"/>
+                                <elementInformation show="1" name="quantity"/>
+                                <elementInformation show="1" name="unity"/>
+                                <elementInformation show="1" name="plant"/>
+                                <elementInformation show="1" name="comment"/>
+                                <elementInformation show="1" name="manufacturer-reference"/>
+                                <elementInformation show="1" name="description"/>
+                                <elementInformation show="1" name="designation"/>
+                            </elementInformations>
+                            <informations/>
+                            <description>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="-15" uuid="{6c82c34b-7d52-4fb4-a64b-1a54fcc141e4}" text_width="-1" frame="false" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="0" z="1">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="-10" uuid="{670a0023-b06b-488f-8702-fc3fcde56cd8}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-26" z="2">
+                                    <text>-X2</text>
+                                    <info_name>machine-manufacturer-reference</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="0" y1="10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3"/>
+                                <line length1="1.5" x1="0" y1="-10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <circle diameter="5" y="-2.5" antialias="true" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                                <rect y="0" height="6" rx="0" antialias="false" x="0" style="line-style:normal;line-weight:none;filling:none;color:black" width="6" ry="0"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="-1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <line length1="1.5" x1="0" y1="-4" length2="1.5" x2="1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <terminal y="10" orientation="s" x="0"/>
+                                <terminal y="-10" orientation="n" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+                <category name="m">
+                    <names>
+                        <name lang="de">M</name>
+                    </names>
+                    <element name="m_3ph.elmt">
+                        <definition hotspot_y="28" height="70" type="element" hotspot_x="25" orientation="dyyy" version="0.70" width="80" link_type="simple">
+                            <uuid uuid="{ee7bb0f7-f7a6-42d0-8349-f818ce2e23d9}"/>
+                            <names>
+                                <name lang="ru">Трёхфазный эл. мотор</name>
+                                <name lang="cs">Trojfázový motor</name>
+                                <name lang="pl">Silnik trójfazowy</name>
+                                <name lang="es">Motor trifásico</name>
+                                <name lang="nl">Draaistroommotor</name>
+                                <name lang="it">Motore trifase</name>
+                                <name lang="pt">Motor trifásico</name>
+                                <name lang="ar">محرّك ثلاثي الأوجه</name>
+                                <name lang="de">Drehstrom Motor</name>
+                                <name lang="en">Three-phase engine</name>
+                                <name lang="fr">Moteur triphasé</name>
+                            </names>
+                            <elementInformations/>
+                            <informations>Author: The QElectroTech team&#xd;&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                            <description>
+                                <line length1="1.5" x1="40" y1="-19.6172" length2="1.5" x2="40" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-5"/>
+                                <text color="#000000" y="-12" text="W1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="22"/>
+                                <text color="#000000" y="-12" text="V1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="2"/>
+                                <text color="#000000" y="-12" text="PE" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="42"/>
+                                <arc angle="180" y="21" height="8" start="180" antialias="true" x="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="9"/>
+                                <arc angle="180" y="21" height="8" start="0" antialias="true" x="1" style="line-style:normal;line-weight:normal;filling:none;color:black" width="9"/>
+                                <text color="#000000" y="20" text="M" font="Sans Serif,15,-1,5,50,0,0,0,0,0" rotation="0" x="2"/>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="4" uuid="{035e2d13-539e-439a-ad52-b0d2fb96ed6d}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-51" z="8">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <ellipse y="-5" height="42" antialias="true" x="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" width="46"/>
+                                <line length1="1.5" x1="0" y1="-20" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <line length1="1.5" x1="20" y1="-19.62" length2="1.5" x2="20" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-3"/>
+                                <line length1="1.5" x1="-20" y1="-19.6" length2="1.5" x2="-20" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-5"/>
+                                <text color="#000000" y="25" text="3" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" x="-5"/>
+                                <text color="#000000" y="-12" text="U1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="-18"/>
+                                <line length1="1.5" x1="-20" y1="-5" length2="1.5" x2="-10" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5"/>
+                                <line length1="1.5" x1="40" y1="-5" length2="1.5" x2="30" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5"/>
+                                <dynamic_text Halignment="AlignHCenter" Valignment="AlignBottom" y="70" uuid="{93a5fa05-d852-4ef7-9672-ed5193f3db4e}" text_width="-1" frame="false" font="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-10" z="17">
+                                    <text>Pfadtext</text>
+                                </dynamic_text>
+                                <terminal y="-21" orientation="n" x="-20"/>
+                                <terminal y="-21" orientation="n" x="20"/>
+                                <terminal y="-21" orientation="n" x="0"/>
+                                <terminal y="-20" orientation="n" x="40"/>
+                            </description>
+                        </definition>
+                    </element>
+                    <element name="motor3p.elmt">
+                        <definition hotspot_y="8" height="60" type="element" hotspot_x="26" orientation="dyyy" version="0.70" width="60" link_type="simple">
+                            <uuid uuid="{5a181eb0-37e1-4eb2-aa23-d0f4aefd342f}"/>
+                            <names>
+                                <name lang="de">Motor 3Ph </name>
+                            </names>
+                            <elementInformations/>
+                            <informations/>
+                            <description>
+                                <circle diameter="30" y="15" antialias="true" x="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                                <text color="#000000" y="5" text="W1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" x="21"/>
+                                <text color="#000000" y="5" text="V1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" x="1"/>
+                                <text color="#000000" y="31" text="M" font="Sans Serif,11,-1,5,50,0,0,0,0,0" rotation="0" x="-6"/>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="20" uuid="{6214796e-5e32-47ca-bf90-d39b5d9b9d0e}" text_width="-1" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text_from="ElementInfo" x="-30" z="6">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="0" y1="1" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="16"/>
+                                <polygon closed="false" y3="20" x1="-20" x3="-11" y1="1" x2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="11"/>
+                                <polygon closed="false" y3="20" x1="20" x3="11" y1="1" x2="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="11"/>
+                                <text color="#000000" y="5" text="U1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" x="-19"/>
+                                <line length1="1.5" x1="17" y1="39" length2="1.5" x2="25" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="39"/>
+                                <line length1="1.5" x1="18" y1="41" length2="1.5" x2="24" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="41"/>
+                                <line length1="1.5" x1="19.6115" y1="43" length2="1.5" x2="22.4209" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="43"/>
+                                <polygon closed="false" y3="39" x1="17" x3="21" y1="29" x2="21" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="29"/>
+                                <text color="#000000" y="41" text="3" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" x="-8"/>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="-10" uuid="{b63fea66-81ea-448f-815d-52c744bb501a}" text_width="-1" frame="false" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="CompositeText" x="-50" z="17">
+                                    <text/>
+                                    <composite_text>%{plant}%{location}%{auxiliary1}</composite_text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="48" uuid="{a5e3fbd6-5edd-402e-9dcf-ca2402b5200d}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-28" z="18">
+                                    <text/>
+                                    <info_name>designation</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="56" uuid="{a5e3fbd6-5edd-402e-9dcf-ca2402b5200d}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-32" z="19">
+                                    <text>P</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="64" uuid="{a5e3fbd6-5edd-402e-9dcf-ca2402b5200d}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-32" z="20">
+                                    <text>V</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="72" uuid="{a5e3fbd6-5edd-402e-9dcf-ca2402b5200d}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-31" z="21">
+                                    <text>I</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="40" uuid="{a5e3fbd6-5edd-402e-9dcf-ca2402b5200d}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-28" z="22">
+                                    <text/>
+                                    <info_name>manufacturer</info_name>
+                                </dynamic_text>
+                                <arc angle="143.813" y="34.8813" height="4.11874" start="0" antialias="true" x="4.64735" style="line-style:normal;line-weight:normal;filling:none;color:black" width="4.35265"/>
+                                <arc angle="137.875" y="33" height="3.98363" start="180" antialias="true" x="1" style="line-style:normal;line-weight:normal;filling:none;color:black" width="4.09785"/>
+                                <polygon x11="16.7856" x6="16.6855" y13="34.9072" y2="22.8269" y1="22" style="line-style:normal;line-weight:normal;filling:none;color:black" y12="33.9394" antialias="false" y4="24.7624" y14="36" x8="17" y5="25.7635" x10="17" y6="26.7313" x12="16.5854" y11="32.8048" y7="27.8659" y3="24" x9="17" y9="31" x15="16" y8="29" x1="15" x2="15.4841" x13="16.285" x3="16" x5="16.552" y10="31" x4="16.285" x14="16" x7="16.8857" y15="36" closed="false"/>
+                                <terminal y="0" orientation="n" x="0"/>
+                                <terminal y="0" orientation="n" x="20"/>
+                                <terminal y="29" orientation="e" x="21"/>
+                                <terminal y="0" orientation="n" x="-20"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+                <category name="s">
+                    <names>
+                        <name lang="de">S</name>
+                    </names>
+                    <element name="arret-urgence_no.elmt">
+                        <definition hotspot_y="24" height="50" type="element" hotspot_x="22" orientation="dyyy" version="0.70" width="30" link_type="master">
+                            <uuid uuid="{ddf51d27-f3e1-47a4-983c-9d58f70e9680}"/>
+                            <names>
+                                <name lang="pl">Łącznik przyciskowy (przycisk bezpieczeństwa)</name>
+                                <name lang="nl">Noodstop drukknop (NO)</name>
+                                <name lang="en">Push-button</name>
+                                <name lang="cs">Nouzové zastavení</name>
+                                <name lang="ru">Кнопка (НР)</name>
+                                <name lang="de">Pilzdrucktaster Schliesser</name>
+                                <name lang="fr">Arret d'urgence (NF)</name>
+                                <name lang="ar">زرّ توقف طارئ (NF)</name>
+                                <name lang="it">Arresto d'emergenza</name>
+                                <name lang="es">Pulsador con enclave</name>
+                            </names>
+                            <kindInformations>
+                                <kindInformation show="1" name="type">commutator</kindInformation>
+                            </kindInformations>
+                            <elementInformations/>
+                            <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                            <description>
+                                <line length1="1.5" x1="-10.25" y1="-2" length2="1.5" x2="-7.25" end1="none" antialias="true" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="0"/>
+                                <polygon closed="false" y3="20" x1="-5" x3="0" y1="-10" x2="0" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10"/>
+                                <arc angle="-180" y="-5" height="10" start="-90" antialias="true" x="-17.25" style="line-style:normal;line-weight:thin;filling:none;color:black" width="8"/>
+                                <line length1="1.5" x1="0" y1="-20" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-10"/>
+                                <line length1="1.5" x1="-10.25" y1="-2" length2="1.5" x2="-10.25" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="0"/>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="-11" uuid="{a61070ee-2d22-43e2-ad87-33411f7b0511}" text_width="-1" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text_from="ElementInfo" x="-27" z="6">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="-13.25" y1="-5" length2="1.5" x2="-13.25" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="5"/>
+                                <line length1="1.5" x1="-13.25" y1="0" length2="1.5" x2="-3.25" end1="none" antialias="false" end2="none" style="line-style:dashed;line-weight:thin;filling:none;color:black" y2="0"/>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-25" uuid="{50dcc3ed-8e48-4034-9b06-18e3ad3cddba}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="9">
+                                    <text>3</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="8" uuid="{2b6a01a2-732d-4d10-b21d-b3b37533886a}" text_width="-1" frame="false" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="10">
+                                    <text>4</text>
+                                </dynamic_text>
+                                <terminal y="-20" orientation="n" x="0"/>
+                                <terminal y="20" orientation="s" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+                <category name="f">
+                    <names>
+                        <name lang="de">F</name>
+                    </names>
+                    <element name="fls.elmt">
+                        <definition hotspot_y="4" height="50" type="element" hotspot_x="23" orientation="dyyy" version="0.70" width="30" link_type="simple">
+                            <uuid uuid="{3d03300d-41fa-4d5f-9f77-d0059a3f88b0}"/>
+                            <names>
+                                <name lang="de">fls</name>
+                            </names>
+                            <elementInformations>
+                                <elementInformation show="1" name="description">B16</elementInformation>
+                                <elementInformation show="1" name="supplier"/>
+                                <elementInformation show="1" name="quantity"/>
+                                <elementInformation show="1" name="comment"/>
+                                <elementInformation show="1" name="unity"/>
+                                <elementInformation show="1" name="plant"/>
+                                <elementInformation show="1" name="manufacturer"/>
+                                <elementInformation show="1" name="machine-manufacturer-reference"/>
+                                <elementInformation show="1" name="label"/>
+                                <elementInformation show="1" name="manufacturer-reference"/>
+                                <elementInformation show="1" name="designation"/>
+                            </elementInformations>
+                            <informations/>
+                            <description>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-5" uuid="{e0a0f7e2-8b9a-4a2b-98c9-e0e87760e44d}" text_width="-1" frame="false" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="1">
+                                    <text>1</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignVCenter" y="8" uuid="{f961461d-03d3-4b3a-83ee-27c8b23c50e1}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-30" z="2">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignBottom" y="26" uuid="{788d777f-98d1-4444-800e-f22a339d8cb9}" text_width="-1" frame="false" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="UserText" x="-2" z="3">
+                                    <text>2</text>
+                                </dynamic_text>
+                                <dynamic_text Halignment="AlignRight" Valignment="AlignBottom" y="26" uuid="{e08e0a02-2a4a-4b00-ad33-fd7cb843a873}" text_width="-1" frame="false" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Standard" rotation="0" text_from="ElementInfo" x="-45" z="4">
+                                    <text>B16</text>
+                                    <info_name>description</info_name>
+                                </dynamic_text>
+                                <line length1="1.5" x1="0" y1="0" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10"/>
+                                <polygon closed="false" y3="40" x1="-5" x3="0" y1="10" x2="0" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30"/>
+                                <polygon closed="false" x6="-18" y3="16" y4="17" x1="-3" y7="22" x3="-12" y5="21" x4="-15" y1="18" x2="-11" x5="-14" x7="-18" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="20" y6="22"/>
+                                <line length1="1.5" x1="-2" y1="23" length2="1.5" x2="-13" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="26"/>
+                                <polygon y3="28" y4="24" x1="-14" x3="-13" x4="-14" y1="24" x2="-18" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" y2="28"/>
+                                <terminal y="40" orientation="s" x="0"/>
+                                <terminal y="0" orientation="n" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+            </category>
+            <category name="symbole">
+                <names>
+                    <name lang="de">Symbole</name>
+                </names>
+                <category name="x">
+                    <names>
+                        <name lang="de">X</name>
+                    </names>
+                    <element name="x_senkrecht_ziel-intern_oben_bmk.elmt">
+                        <definition hotspot_y="14" height="30" type="element" hotspot_x="15" version="0.80" width="30" link_type="terminal">
+                            <uuid uuid="{4a606430-df23-4ccf-b4d9-bbe19704a43f}"/>
+                            <names>
+                                <name lang="de">Klemme senk Qet-BMK (Ziel intern = oben)</name>
+                            </names>
+                            <elementInformations>
+                                <elementInformation show="1" name="manufacturer"/>
+                                <elementInformation show="1" name="description"/>
+                                <elementInformation show="1" name="supplier"/>
+                                <elementInformation show="1" name="unity"/>
+                                <elementInformation show="1" name="manufacturer_reference"/>
+                                <elementInformation show="1" name="designation"/>
+                                <elementInformation show="1" name="machine_manufacturer_reference"/>
+                                <elementInformation show="1" name="plant"/>
+                                <elementInformation show="1" name="quantity"/>
+                                <elementInformation show="1" name="label"/>
+                                <elementInformation show="1" name="comment">Ziel intern oben</elementInformation>
+                            </elementInformations>
+                            <informations/>
+                            <description>
+                                <line length1="1.5" x1="0" y1="10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5"/>
+                                <line length1="1.5" x1="0" y1="-10" length2="1.5" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-5"/>
+                                <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" y="-2" uuid="{6c82c34b-7d52-4fb4-a64b-1a54fcc141e4}" text_width="-1" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Standard" rotation="270" text_from="ElementInfo" x="-5" z="3">
+                                    <text/>
+                                    <info_name>label</info_name>
+                                </dynamic_text>
+                                <circle diameter="10" y="-5" antialias="true" x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                                <rect y="-10" height="20" rx="0" antialias="false" x="-10" style="line-style:normal;line-weight:none;filling:none;color:black" width="20" ry="0"/>
+                                <terminal y="-10" uuid="{effd020a-1daa-4932-9de1-8b982af352c5}" orientation="n" name="int" x="0"/>
+                                <terminal y="10" uuid="{55a63c3c-e1a0-44d3-befc-3f0a6f18a3a0}" orientation="s" name="ext" x="0"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+            </category>
+        </category>
+    </collection>
+</project>
