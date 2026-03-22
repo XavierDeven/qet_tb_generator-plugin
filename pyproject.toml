@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qet_tb_generator_xd"
+version = "2.1.3"
+authors = [
+  { name="FORKED FROM Raul Roda", email="javdenech@gmail.com" }
+]
+description = "Script that generates terminal blocks & connectors for QElectroTech"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "GPL-2.0-only"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Win32 (MS Windows)",
+    "Intended Audience :: End Users/Desktop",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "customtkinter",
+    "Pillow",
+    "tksheet>=7.0.0",
+]
+
+[project.gui-scripts]
+qet_tb_generator = "qet_tb_generator.main:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.package-data]
+qet_tb_generator = ["assets/*.jpg"]
