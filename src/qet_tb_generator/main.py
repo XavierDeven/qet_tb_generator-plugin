@@ -23,7 +23,7 @@ from qetproject import QETProject
 from terminalblock import TerminalBlock
 
 # --- CONSTANTS ---
-VERSION = '2.1.2'
+VERSION = '2.1.4'
 TITLE = 'QET Terminal Block Generator - v{} (CustomTkinter)'.format(VERSION)
 CONFIG_FILE = 'qet_tb_generator.json'
 DEBUG_MODE = True  # Enable for diagnostics

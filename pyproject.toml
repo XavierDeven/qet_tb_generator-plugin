@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "qet_tb_generator_xd"
-version = "2.1.3"
+version = "2.1.4"
 authors = [
   { name="FORKED FROM Raul Roda", email="javdenech@gmail.com" }
 ]
