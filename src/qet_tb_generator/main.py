@@ -169,7 +169,10 @@ class App(ctk.CTk):
 
         self.sheet.enable_bindings(("single_select", "drag_select", "row_select", "column_width_resize", "row_height_resize", "arrowkeys", "copy", "cut", "paste", "delete", "undo", "redo", "edit_cell"))
         self.sheet.extra_bindings([
-            ("end_edit_cell", self.on_sheet_edit)
+            ("end_edit_cell", self.on_sheet_edit),
+            ("end_paste", self.on_sheet_paste),
+            ("end_delete", self.on_sheet_delete),
+            ("end_cut", self.on_sheet_delete)
         ])
         
         # Use direct canvas bindings with add="+" to preserve tksheet native logic
@@ -257,12 +260,34 @@ class App(ctk.CTk):
 
     def on_sheet_edit(self, event):
         row, col, value = event.row, event.column, event.value
+        if col >= len(TABLE): return
         key = TABLE[col]['key']
         terminal = self.displayed_terminals[row]
         terminal[key] = value
         self.mark_as_edited(terminal['block_name'])
         if key == 'terminal_color':
             self.apply_row_colors(row, value)
+
+    def on_sheet_paste(self, event=None):
+        self.sync_sheet_to_model()
+
+    def on_sheet_delete(self, event=None):
+        self.sync_sheet_to_model()
+
+    def sync_sheet_to_model(self):
+        sheet_data = self.sheet.get_sheet_data()
+        for i, row_vals in enumerate(sheet_data):
+            if i < len(self.displayed_terminals):
+                term = self.displayed_terminals[i]
+                changed = False
+                for j, col_def in enumerate(TABLE):
+                    if col_def['edit']:
+                        val = row_vals[j]
+                        if term.get(col_def['key']) != val:
+                            term[col_def['key']] = val
+                            changed = True
+                if changed:
+                    self.mark_as_edited(term['block_name'])
 
     def apply_row_colors(self, row_idx, color_name):
         color_map = {"orange": "#FFA500", "lightblue": "#ADD8E6", "red": "#FF0000", "darkblue": "#00008B", "green": "#008000"}
@@ -442,12 +467,7 @@ class App(ctk.CTk):
                     try: 
                         with open(log_file, "w") as f: f.write("")
                     except: pass
-            sheet_data = self.sheet.get_sheet_data()
-            for i, row_vals in enumerate(sheet_data):
-                if i < len(self.displayed_terminals):
-                    term = self.displayed_terminals[i]
-                    for j, col_def in enumerate(TABLE):
-                        if col_def['edit']: term[col_def['key']] = row_vals[j]
+            self.sync_sheet_to_model()
             all_data, tb_names = self.qet_project.terminals, self.qet_project.tb_names
             choosed = [n for n in tb_names if ("-- ALL --" in self.selected_tbs or n in self.selected_tbs)]
             if not choosed: return messagebox.showwarning("Warning", "No terminal blocks selected.")
